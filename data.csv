@@ -1,0 +1,901 @@
+first_name,second_name,last_name,full_name,album_numer,id_numer,transfer,transfer_date,amount_paid_is_correct,student_id_release_date
+Jefferson,Kurtis,Eltringham,Jefferson Kurtis Eltringham,108238,03015816445,22.00 zł,13/10/2023,true,8/11/2023
+Taryn,,Lacroix,Taryn  Lacroix,631343,03620130219,22.00 zł,9/10/2023,true,23/10/2023
+Rouvin,,Plows,Rouvin  Plows,179396,41775863384,25.12 zł,18/10/2023,false,
+Benoite,Gigi,Daton,Benoite Gigi Daton,986746,61963518855,26.03 zł,22/10/2023,false,
+Siouxie,,Malpass,Siouxie  Malpass,565973,12569089044,0.00 zł,,false,
+Omero,,Boraston,Omero  Boraston,423594,33135317199,14.14 zł,5/11/2023,false,
+Minni,Gun,Dowsett,Minni Gun Dowsett,140822,39404141804,0.00 zł,,false,
+Cyril,Letitia,Larmouth,Cyril Letitia Larmouth,106033,03187602817,31.27 zł,3/10/2023,false,
+Maurizio,Damiano,Blum,Maurizio Damiano Blum,971106,84632866476,22.00 zł,24/10/2023,true,22/11/2023
+Karry,,Colquitt,Karry  Colquitt,800090,12461204012,22.00 zł,17/10/2023,true,12/11/2023
+Stewart,,Kabisch,Stewart  Kabisch,687966,57434125584,0.00 zł,,false,
+Hermione,,Minet,Hermione  Minet,275768,26874202849,22.00 zł,7/11/2023,true,12/11/2023
+Maxi,Aldric,Topliss,Maxi Aldric Topliss,369963,13347990984,19.01 zł,11/11/2023,false,
+Olga,Sandy,Olczyk,Olga Sandy Olczyk,557879,50970413031,13.88 zł,19/10/2023,false,
+Analise,Sallie,Ridulfo,Analise Sallie Ridulfo,379280,61662115132,22.00 zł,11/10/2023,true,19/10/2023
+Elia,Kyrstin,Lissandre,Elia Kyrstin Lissandre,856944,47945644129,0.00 zł,,false,
+Tomi,Anthe,Skala,Tomi Anthe Skala,019359,52393338193,0.00 zł,,false,
+Nanni,Crissy,End,Nanni Crissy End,235770,51540041619,0.00 zł,,false,
+Mable,,Lardeur,Mable  Lardeur,607958,65957329057,12.91 zł,1/11/2023,false,
+Kamillah,Mathilda,Meddemmen,Kamillah Mathilda Meddemmen,872437,20384366657,0.00 zł,,false,
+Gina,Doro,Gierok,Gina Doro Gierok,584855,31743612649,25.22 zł,18/10/2023,false,
+Barrett,,Sabattier,Barrett  Sabattier,517863,33103201333,18.99 zł,14/11/2023,false,
+Levey,,Weatherburn,Levey  Weatherburn,267256,57469645444,0.00 zł,,false,
+Barr,Raquela,Egglestone,Barr Raquela Egglestone,090422,05535132689,23.97 zł,8/11/2023,false,
+Stoddard,Ephrem,Lakey,Stoddard Ephrem Lakey,365960,40015276491,24.25 zł,1/10/2023,false,
+Cobb,,Crome,Cobb  Crome,449759,66280459458,22.00 zł,2/11/2023,true,27/11/2023
+Lissie,Simone,Rennie,Lissie Simone Rennie,826222,24906520243,24.11 zł,2/10/2023,false,
+Abigael,Korey,Walklett,Abigael Korey Walklett,687145,22574644305,28.39 zł,24/10/2023,false,
+Raven,Catherina,Devey,Raven Catherina Devey,030599,94115778523,22.00 zł,1/10/2023,true,17/10/2023
+Matt,,Pinches,Matt  Pinches,607608,42734054028,22.00 zł,15/10/2023,true,12/11/2023
+Tildy,Hansiain,Paff,Tildy Hansiain Paff,368183,73657411996,33.37 zł,14/10/2023,false,
+Janessa,Henry,Dufton,Janessa Henry Dufton,938493,04574818918,0.00 zł,,false,
+Katti,Dallas,Zarb,Katti Dallas Zarb,028465,89086565303,25.32 zł,16/11/2023,false,
+Andris,,Kensy,Andris  Kensy,899467,46482627785,22.48 zł,25/10/2023,false,
+Kermy,Dionne,McNuff,Kermy Dionne McNuff,591724,75552507292,0.00 zł,,false,
+Karel,,Avramchik,Karel  Avramchik,336673,11301520250,22.00 zł,6/10/2023,true,2/11/2023
+Blythe,Mavra,Emmet,Blythe Mavra Emmet,199705,29407857651,18.77 zł,11/11/2023,false,
+Corbett,,Gawke,Corbett  Gawke,852972,99881812633,30.52 zł,3/11/2023,false,
+Hilliary,,Flay,Hilliary  Flay,916407,63262388353,22.00 zł,26/10/2023,true,13/11/2023
+Farrel,,Ivatts,Farrel  Ivatts,640747,25088590788,0.00 zł,,false,
+Marni,,Carabine,Marni  Carabine,247880,84888183016,23.45 zł,18/10/2023,false,
+Pamelina,,Killbey,Pamelina  Killbey,691295,77193440743,16.60 zł,9/10/2023,false,
+Brianna,,Queyeiro,Brianna  Queyeiro,223408,89617496720,23.62 zł,5/10/2023,false,
+Ailina,,Haysey,Ailina  Haysey,393260,89343272049,28.43 zł,22/10/2023,false,
+Rivalee,,Towll,Rivalee  Towll,969506,94353074179,18.73 zł,17/11/2023,false,
+Nelli,Randi,Quernel,Nelli Randi Quernel,962510,81012596343,22.68 zł,23/10/2023,false,
+Ulla,Stewart,Leathard,Ulla Stewart Leathard,929666,28578403829,23.61 zł,25/10/2023,false,
+Vittorio,,Shenton,Vittorio  Shenton,918104,78434427369,0.00 zł,,false,
+Jeanette,,de Guerre,Jeanette  de Guerre,456896,93289860393,22.00 zł,5/10/2023,true,18/10/2023
+Franny,,Winder,Franny  Winder,609943,29676513687,15.68 zł,2/10/2023,false,
+Sarajane,,Rennebeck,Sarajane  Rennebeck,483519,97293792595,22.00 zł,12/10/2023,true,24/10/2023
+Laure,Roze,Credland,Laure Roze Credland,591762,87266729718,0.00 zł,,false,
+Linn,,Dalgety,Linn  Dalgety,123236,70445088685,0.00 zł,,false,
+Fleur,Joellyn,Martschke,Fleur Joellyn Martschke,927002,59536145856,0.00 zł,,false,
+Darrelle,Flss,Lowes,Darrelle Flss Lowes,812597,19863381315,28.61 zł,7/10/2023,false,
+Sibylle,,Buckthorpe,Sibylle  Buckthorpe,595973,44844607028,0.00 zł,,false,
+Rhona,Cissy,Maciocia,Rhona Cissy Maciocia,818749,53050669282,22.00 zł,9/10/2023,true,12/10/2023
+Carissa,Gerrie,Kenchington,Carissa Gerrie Kenchington,735209,69771440310,22.00 zł,22/10/2023,true,29/10/2023
+Chad,Ondrea,Winterscale,Chad Ondrea Winterscale,898190,84253666977,22.19 zł,5/11/2023,false,
+Krisha,,Buzine,Krisha  Buzine,504609,89379705900,9.81 zł,13/11/2023,false,
+Rab,Edythe,Yanshin,Rab Edythe Yanshin,365910,73861244078,0.00 zł,,false,
+Geraldine,,Marioneau,Geraldine  Marioneau,506362,45333195323,26.30 zł,6/10/2023,false,
+Brantley,,Spiaggia,Brantley  Spiaggia,446217,20454687560,22.00 zł,14/11/2023,true,5/12/2023
+Rowan,,Reisk,Rowan  Reisk,271434,82218388646,0.00 zł,,false,
+Shina,,Sambrook,Shina  Sambrook,349109,93121994885,28.37 zł,28/10/2023,false,
+Colleen,,Purvis,Colleen  Purvis,825464,10896040731,0.00 zł,,false,
+Adrianne,,Standish-Brooks,Adrianne  Standish-Brooks,301737,68907816870,22.00 zł,14/10/2023,true,31/10/2023
+Inglis,,Halshaw,Inglis  Halshaw,195052,68850489159,16.30 zł,28/10/2023,false,
+Jocelyne,,Momery,Jocelyne  Momery,869965,02853377513,22.00 zł,11/10/2023,true,14/10/2023
+Liliane,Wes,Rennolds,Liliane Wes Rennolds,556718,69817054716,0.00 zł,,false,
+Chandal,Oliviero,Head,Chandal Oliviero Head,401581,43703004181,0.00 zł,,false,
+Jo,,Tordoff,Jo  Tordoff,941740,34446539536,0.00 zł,,false,
+Ardis,Cassi,Spadazzi,Ardis Cassi Spadazzi,967167,32712678808,24.35 zł,24/10/2023,false,
+Rosie,Blythe,Kliemchen,Rosie Blythe Kliemchen,974414,28245458433,22.00 zł,24/10/2023,true,4/11/2023
+Dannie,Corrina,Tippell,Dannie Corrina Tippell,345091,07880462401,20.52 zł,15/11/2023,false,
+Barbara-anne,Bertie,MacKall,Barbara-anne Bertie MacKall,595468,75546176806,0.00 zł,,false,
+Darn,,Gatheral,Darn  Gatheral,085062,21420535391,35.03 zł,13/11/2023,false,
+Rubi,Gertrude,Sibley,Rubi Gertrude Sibley,168762,94284454510,0.00 zł,,false,
+Sholom,,Oneal,Sholom  Oneal,918565,82409699791,22.00 zł,3/11/2023,true,28/11/2023
+Stanislaus,,Blasdale,Stanislaus  Blasdale,612772,46058210528,0.00 zł,,false,
+Claus,Valida,Bemrose,Claus Valida Bemrose,093169,10389170924,20.22 zł,4/10/2023,false,
+Sallyann,,Biford,Sallyann  Biford,452081,18021749385,0.00 zł,,false,
+Demott,,Erangey,Demott  Erangey,716885,78797092647,20.52 zł,16/11/2023,false,
+Keefer,Patten,Lowden,Keefer Patten Lowden,520375,91406527756,26.96 zł,16/10/2023,false,
+Hollis,,Blatherwick,Hollis  Blatherwick,397009,48710651151,25.53 zł,26/10/2023,false,
+Collette,Tessa,Pardey,Collette Tessa Pardey,965984,94767155105,23.54 zł,8/10/2023,false,
+Marilyn,Flossy,Rumming,Marilyn Flossy Rumming,879266,86977700007,25.44 zł,16/10/2023,false,
+Tess,,McCerery,Tess  McCerery,539813,01732354248,16.16 zł,11/10/2023,false,
+Perri,Guenevere,Gayforth,Perri Guenevere Gayforth,026229,65348441878,22.00 zł,9/10/2023,true,15/10/2023
+Ardeen,,Hedau,Ardeen  Hedau,679262,21129013361,22.00 zł,7/11/2023,true,13/11/2023
+Marleah,Cecilius,Beardwood,Marleah Cecilius Beardwood,889587,82906707163,31.03 zł,12/11/2023,false,
+Edwina,Nertie,Keeling,Edwina Nertie Keeling,241346,04920711077,15.44 zł,16/10/2023,false,
+Jennette,Sonia,Ellicombe,Jennette Sonia Ellicombe,333486,15064159799,15.91 zł,6/10/2023,false,
+Harrietta,Annie,Mayor,Harrietta Annie Mayor,158869,88613604564,0.00 zł,,false,
+Robbie,,Gibbieson,Robbie  Gibbieson,274181,45232620792,25.84 zł,10/10/2023,false,
+Janaya,Ralina,Dowglass,Janaya Ralina Dowglass,323692,33510847703,13.47 zł,3/10/2023,false,
+Marla,Henrieta,Renton,Marla Henrieta Renton,768477,44066961370,0.00 zł,,false,
+Harwilll,Jaime,Walklott,Harwilll Jaime Walklott,264830,85020501192,22.00 zł,3/10/2023,true,24/10/2023
+Andeee,,Pantecost,Andeee  Pantecost,005228,89904146658,0.00 zł,,false,
+Sherline,Clay,Grellier,Sherline Clay Grellier,933804,83865717438,0.00 zł,,false,
+Orelie,Aile,Paull,Orelie Aile Paull,646659,97864141901,25.98 zł,11/10/2023,false,
+Judon,Eddi,MacTeggart,Judon Eddi MacTeggart,133820,81039090758,0.00 zł,,false,
+Kylie,,Burtwhistle,Kylie  Burtwhistle,149492,64919081161,22.00 zł,20/10/2023,true,29/10/2023
+Claudianus,,Leaming,Claudianus  Leaming,972693,87784252241,26.25 zł,13/10/2023,false,
+Eugenia,York,Marron,Eugenia York Marron,696701,55727180324,0.00 zł,,false,
+Gayleen,Adria,Bradford,Gayleen Adria Bradford,901722,64109221046,19.13 zł,22/10/2023,false,
+Gusta,Verine,Filipowicz,Gusta Verine Filipowicz,645978,27174744079,22.00 zł,7/10/2023,true,21/10/2023
+Margarette,,Sapwell,Margarette  Sapwell,508763,57287467447,22.00 zł,12/10/2023,true,10/11/2023
+Joellyn,,Labbett,Joellyn  Labbett,589966,00178012084,22.00 zł,31/10/2023,true,18/11/2023
+Lynnea,,Betty,Lynnea  Betty,187865,72277491266,16.62 zł,10/10/2023,false,
+Griffin,Joy,Sheards,Griffin Joy Sheards,004782,42841809830,20.75 zł,17/10/2023,false,
+Asa,Roma,Itzhak,Asa Roma Itzhak,063009,20401912317,22.00 zł,24/10/2023,true,18/11/2023
+Catherina,,Duinbleton,Catherina  Duinbleton,664596,20054547520,34.09 zł,6/11/2023,false,
+Trenton,Debby,Cothey,Trenton Debby Cothey,994287,30214899241,22.00 zł,22/10/2023,true,27/10/2023
+Raleigh,Kassey,Pfleger,Raleigh Kassey Pfleger,710320,42382356986,29.35 zł,31/10/2023,false,
+Tedd,Bendix,Lillford,Tedd Bendix Lillford,581833,18075451738,22.00 zł,1/11/2023,true,1/12/2023
+Dedie,Finn,Dagger,Dedie Finn Dagger,671000,40959791978,18.22 zł,14/11/2023,false,
+Margi,,Normavill,Margi  Normavill,875039,51392133824,0.00 zł,,false,
+Sadye,,Beck,Sadye  Beck,400303,69146415876,22.00 zł,5/11/2023,true,27/11/2023
+Martie,Britni,Donegan,Martie Britni Donegan,186177,00541987297,20.34 zł,21/10/2023,false,
+Demott,,Churchward,Demott  Churchward,310124,93065555485,21.82 zł,1/11/2023,false,
+Rockey,Rusty,Malham,Rockey Rusty Malham,463490,26194023590,28.32 zł,16/11/2023,false,
+Merle,,Rhydderch,Merle  Rhydderch,579071,37508499889,22.00 zł,5/11/2023,true,1/12/2023
+Elvira,,Bras,Elvira  Bras,152208,88653191508,21.54 zł,23/10/2023,false,
+Bucky,,Worham,Bucky  Worham,148390,50837351443,14.51 zł,15/11/2023,false,
+Seline,Saundra,Basil,Seline Saundra Basil,987036,90344557943,22.00 zł,2/10/2023,true,23/10/2023
+Elise,,Pail,Elise  Pail,734475,40284552775,0.00 zł,,false,
+Emmaline,Carmen,Dumper,Emmaline Carmen Dumper,076788,71089193614,22.00 zł,5/11/2023,true,22/11/2023
+Andrey,Marylou,McLuckie,Andrey Marylou McLuckie,966333,26706850759,22.00 zł,24/10/2023,true,15/11/2023
+Fairleigh,Juieta,Wornum,Fairleigh Juieta Wornum,449976,96735761273,22.00 zł,2/10/2023,true,4/10/2023
+Anitra,,MacMichael,Anitra  MacMichael,350784,23061469553,22.00 zł,9/10/2023,true,31/10/2023
+Ruth,Goddard,Cords,Ruth Goddard Cords,909464,32187117995,22.00 zł,12/10/2023,true,27/10/2023
+Luelle,Laurens,Hundall,Luelle Laurens Hundall,177142,75589165518,0.00 zł,,false,
+Franzen,Lorettalorna,Cogley,Franzen Lorettalorna Cogley,364309,71327861497,22.40 zł,25/10/2023,false,
+Davina,,Noone,Davina  Noone,124554,86138593215,22.00 zł,23/10/2023,true,16/11/2023
+Den,Padriac,Ardy,Den Padriac Ardy,175705,50513157570,0.00 zł,,false,
+Kalvin,,Di Angelo,Kalvin  Di Angelo,755026,71118696666,20.74 zł,18/10/2023,false,
+Dory,,Gillison,Dory  Gillison,970123,06975275535,0.00 zł,,false,
+Danita,Adaline,Powys,Danita Adaline Powys,009062,24942568818,23.13 zł,17/10/2023,false,
+Davie,,Mattisson,Davie  Mattisson,050758,07873753395,22.00 zł,17/11/2023,true,26/11/2023
+Catherine,,Enrrico,Catherine  Enrrico,780306,53730722836,22.00 zł,13/10/2023,true,2/11/2023
+Pooh,,Hauck,Pooh  Hauck,168216,59538355445,22.00 zł,25/10/2023,true,7/11/2023
+Madella,,Petcher,Madella  Petcher,152706,99656469303,16.06 zł,18/10/2023,false,
+Sal,Star,MacElharge,Sal Star MacElharge,448142,07742800084,0.00 zł,,false,
+Ruggiero,,Alexandre,Ruggiero  Alexandre,548354,78271615018,26.51 zł,10/10/2023,false,
+Whit,Lurlene,Overlow,Whit Lurlene Overlow,939050,00946227253,22.00 zł,15/11/2023,true,17/11/2023
+Jenine,Elijah,Rolls,Jenine Elijah Rolls,758272,68566534269,26.62 zł,29/10/2023,false,
+Gerry,Teodoro,Day,Gerry Teodoro Day,414132,11525235430,22.00 zł,14/10/2023,true,10/11/2023
+Fannie,,Buttery,Fannie  Buttery,070222,29125506531,22.00 zł,5/11/2023,true,28/11/2023
+Eberto,Cornelia,Ellcome,Eberto Cornelia Ellcome,642227,55779712946,22.00 zł,19/10/2023,true,3/11/2023
+Frank,Darice,Tampling,Frank Darice Tampling,984446,56929172679,22.00 zł,3/11/2023,true,16/11/2023
+Idelle,Keelia,Benedek,Idelle Keelia Benedek,055471,66292781160,0.00 zł,,false,
+Swen,Roch,Glendzer,Swen Roch Glendzer,957666,20201252318,22.00 zł,19/10/2023,true,12/11/2023
+Ivonne,Sam,Duckham,Ivonne Sam Duckham,590581,32902138016,0.00 zł,,false,
+Lura,Muhammad,Willingam,Lura Muhammad Willingam,778068,30139516360,22.00 zł,5/10/2023,true,20/10/2023
+Sosanna,,Fruen,Sosanna  Fruen,693430,41488447143,13.79 zł,5/11/2023,false,
+Ty,Marietta,Axston,Ty Marietta Axston,615631,23059410936,22.00 zł,30/10/2023,true,14/11/2023
+Ramonda,Thurstan,Rosenfelt,Ramonda Thurstan Rosenfelt,302318,25570097640,0.00 zł,,false,
+Marijo,,Bails,Marijo  Bails,018095,34058911791,29.69 zł,28/10/2023,false,
+Addi,Guilbert,McSperron,Addi Guilbert McSperron,698040,13894901196,18.15 zł,13/10/2023,false,
+Patton,,Aitchison,Patton  Aitchison,864047,15148391763,27.18 zł,12/11/2023,false,
+Urson,,Jacobbe,Urson  Jacobbe,143452,23450815281,0.00 zł,,false,
+Cristi,Franciska,Butcher,Cristi Franciska Butcher,847117,99289292079,26.17 zł,22/10/2023,false,
+Sidney,Joyous,Godart,Sidney Joyous Godart,015154,99695519627,0.00 zł,,false,
+Odele,Hershel,Lukins,Odele Hershel Lukins,682756,04515355275,29.56 zł,11/10/2023,false,
+Vergil,,Mussett,Vergil  Mussett,994331,55040732453,0.00 zł,,false,
+Camile,,Ells,Camile  Ells,877213,82278158327,0.00 zł,,false,
+Tucky,,Spaunton,Tucky  Spaunton,424140,46319676239,34.54 zł,13/11/2023,false,
+Cletus,,Pinxton,Cletus  Pinxton,430886,30370314171,22.00 zł,3/10/2023,true,18/10/2023
+Pam,Karlene,Urien,Pam Karlene Urien,507893,52030144186,0.00 zł,,false,
+Ysabel,,Oleksinski,Ysabel  Oleksinski,835153,85233069996,22.00 zł,12/11/2023,true,19/11/2023
+Jimmy,,Kenaway,Jimmy  Kenaway,949883,48389816212,22.00 zł,6/10/2023,true,29/10/2023
+Ethel,Krisha,Kettles,Ethel Krisha Kettles,107340,23494945971,0.00 zł,,false,
+Peri,,Tripcony,Peri  Tripcony,139583,54149588032,25.01 zł,10/10/2023,false,
+Letta,,Mordan,Letta  Mordan,324344,24501675337,24.04 zł,14/10/2023,false,
+Denni,Nowell,Sandiford,Denni Nowell Sandiford,260940,75640150492,22.00 zł,16/10/2023,true,31/10/2023
+Esta,,Rubury,Esta  Rubury,624505,40362166540,9.55 zł,15/11/2023,false,
+Bethany,,Greschke,Bethany  Greschke,768848,53126603593,22.00 zł,3/10/2023,true,5/10/2023
+Denver,,Woolstenholmes,Denver  Woolstenholmes,254172,21099591595,23.34 zł,8/10/2023,false,
+Inglis,,Waslin,Inglis  Waslin,704446,57769592531,22.00 zł,17/11/2023,true,5/12/2023
+Hadrian,,Jovanovic,Hadrian  Jovanovic,305876,36669822329,24.48 zł,16/10/2023,false,
+Rollie,Leeland,Quadri,Rollie Leeland Quadri,539231,86158548364,22.00 zł,5/10/2023,true,17/10/2023
+Yovonnda,,Jeste,Yovonnda  Jeste,092191,96137342475,0.00 zł,,false,
+Mufi,,Northwood,Mufi  Northwood,071654,10191538394,0.00 zł,,false,
+Averell,,Danilenko,Averell  Danilenko,905005,33429287285,32.61 zł,20/10/2023,false,
+Jannel,Simonne,Stockhill,Jannel Simonne Stockhill,956578,80323356853,21.87 zł,20/10/2023,false,
+Janeen,,Searle,Janeen  Searle,478416,51844761472,23.00 zł,10/10/2023,false,
+Wayland,,Leeke,Wayland  Leeke,931433,56521914636,22.00 zł,15/10/2023,true,10/11/2023
+Tripp,Kendal,Zarfat,Tripp Kendal Zarfat,711817,91415206631,0.00 zł,,false,
+Nicolina,Nike,Skull,Nicolina Nike Skull,973600,91796167315,24.20 zł,18/10/2023,false,
+Tabbie,Vida,Corkel,Tabbie Vida Corkel,594317,13114558101,22.00 zł,19/10/2023,true,13/11/2023
+Monika,Morris,Greenwell,Monika Morris Greenwell,494623,20957574091,22.00 zł,25/10/2023,true,18/11/2023
+Iggie,Tarah,Boxhill,Iggie Tarah Boxhill,838156,48115413007,29.64 zł,28/10/2023,false,
+Luella,,Fosbraey,Luella  Fosbraey,245566,01005134644,28.01 zł,1/10/2023,false,
+Ralf,Munroe,Dinwoodie,Ralf Munroe Dinwoodie,916163,64410761577,0.00 zł,,false,
+Lanny,Tess,Cohn,Lanny Tess Cohn,732194,32204314342,23.93 zł,13/11/2023,false,
+L;urette,,Fielder,L;urette  Fielder,778854,87315482143,22.00 zł,7/11/2023,true,23/11/2023
+Valina,Harrison,Cortin,Valina Harrison Cortin,545473,08545585929,0.00 zł,,false,
+Stephani,Joshuah,Wogden,Stephani Joshuah Wogden,566985,96177641938,16.40 zł,2/10/2023,false,
+Melisent,,Dayborne,Melisent  Dayborne,524802,10844416044,23.36 zł,6/10/2023,false,
+Eddi,,Bence,Eddi  Bence,786383,00395469102,22.00 zł,31/10/2023,true,5/11/2023
+Ninnette,Ezekiel,Beddie,Ninnette Ezekiel Beddie,967053,27316196286,22.10 zł,15/10/2023,false,
+Marcile,,Antcliff,Marcile  Antcliff,884508,11490578563,22.00 zł,11/11/2023,true,21/11/2023
+Brina,Jens,Veck,Brina Jens Veck,147112,41397751755,21.43 zł,9/11/2023,false,
+Frederigo,Elsey,Hugk,Frederigo Elsey Hugk,768385,26014036146,17.16 zł,3/11/2023,false,
+Toma,Lavina,Abley,Toma Lavina Abley,791319,03778687337,26.34 zł,5/10/2023,false,
+Richy,Arne,Balentyne,Richy Arne Balentyne,949701,82434804186,22.00 zł,5/11/2023,true,18/11/2023
+Reese,,Duffy,Reese  Duffy,455187,02837025332,24.41 zł,20/10/2023,false,
+Elie,Camila,Daleman,Elie Camila Daleman,777670,49376360624,20.03 zł,12/11/2023,false,
+Selig,Wye,Reignard,Selig Wye Reignard,293798,27698997125,0.00 zł,,false,
+Ellissa,Klemens,Mattheis,Ellissa Klemens Mattheis,781045,84447470575,22.00 zł,22/10/2023,true,27/10/2023
+Stewart,,Langcastle,Stewart  Langcastle,997110,62573279274,22.00 zł,21/10/2023,true,5/11/2023
+Anatollo,,Hatherill,Anatollo  Hatherill,232961,75552347269,0.00 zł,,false,
+Kania,Waldemar,Laidel,Kania Waldemar Laidel,153800,52491862389,22.00 zł,23/10/2023,true,11/11/2023
+Gilberta,,Sherborn,Gilberta  Sherborn,058314,35670426508,22.00 zł,6/11/2023,true,16/11/2023
+Lin,Averil,Huge,Lin Averil Huge,175931,75594161161,22.00 zł,21/10/2023,true,29/10/2023
+Tom,Tara,Milson,Tom Tara Milson,767313,74914415856,25.95 zł,11/11/2023,false,
+Kerwin,Bronny,Beenham,Kerwin Bronny Beenham,619164,41270515861,23.84 zł,26/10/2023,false,
+Nettle,,Mullaly,Nettle  Mullaly,977299,38450504175,28.71 zł,11/10/2023,false,
+Abby,Vasili,Sprague,Abby Vasili Sprague,166589,79961764923,0.00 zł,,false,
+Krissy,Saraann,Nickoll,Krissy Saraann Nickoll,008478,33696744529,22.00 zł,29/10/2023,true,9/11/2023
+Burk,,McFeate,Burk  McFeate,436033,84688644092,20.74 zł,14/11/2023,false,
+Griff,Reinold,Seine,Griff Reinold Seine,798021,71397769569,23.03 zł,20/10/2023,false,
+Leanora,Ivar,Tripcony,Leanora Ivar Tripcony,169690,84164215981,25.87 zł,14/11/2023,false,
+Floria,Seline,Liverseege,Floria Seline Liverseege,700919,73331682294,20.58 zł,9/11/2023,false,
+Fayette,Hammad,Seleway,Fayette Hammad Seleway,127890,85706126350,0.00 zł,,false,
+Lothario,,Bonefant,Lothario  Bonefant,584969,34561514079,22.00 zł,7/11/2023,true,15/11/2023
+Tally,Perren,MacGiolla,Tally Perren MacGiolla,611208,65620466292,22.00 zł,13/10/2023,true,28/10/2023
+Benetta,Emelia,Battleson,Benetta Emelia Battleson,269572,68118692943,22.00 zł,21/10/2023,true,1/11/2023
+Ajay,Gustavus,Pickett,Ajay Gustavus Pickett,027605,39014975771,22.00 zł,3/11/2023,true,18/11/2023
+Patience,,Egginton,Patience  Egginton,571694,30824856574,34.56 zł,5/10/2023,false,
+Walt,Shayne,Dockwra,Walt Shayne Dockwra,042953,01115575210,21.92 zł,2/10/2023,false,
+Carlene,Mellisa,Leadbetter,Carlene Mellisa Leadbetter,371573,24179390160,23.77 zł,10/11/2023,false,
+Cicily,Jennine,Najara,Cicily Jennine Najara,912948,61937928345,23.01 zł,6/11/2023,false,
+Tanny,,Llywarch,Tanny  Llywarch,607693,99540595552,0.00 zł,,false,
+Daffi,Gabrila,Seagrave,Daffi Gabrila Seagrave,837218,59984406059,14.66 zł,12/11/2023,false,
+Fergus,Samantha,Bownas,Fergus Samantha Bownas,659867,90391453445,22.00 zł,16/10/2023,true,27/10/2023
+Jessalin,Dunn,Guiu,Jessalin Dunn Guiu,699425,07367462824,28.71 zł,2/10/2023,false,
+Farica,Standford,Filipic,Farica Standford Filipic,883845,95397831147,22.00 zł,2/11/2023,true,11/11/2023
+Ilysa,Jock,Bertot,Ilysa Jock Bertot,070809,76039566000,9.24 zł,10/10/2023,false,
+Beverlee,Britney,Acors,Beverlee Britney Acors,276279,70309667639,22.00 zł,11/11/2023,true,19/11/2023
+Giselle,Amalle,Gurery,Giselle Amalle Gurery,955071,59839437213,26.61 zł,3/10/2023,false,
+Rosmunda,,Bodicum,Rosmunda  Bodicum,574869,48211552220,22.00 zł,7/10/2023,true,25/10/2023
+Norman,,Clout,Norman  Clout,843600,23771182940,0.00 zł,,false,
+Sebastiano,Gui,McNay,Sebastiano Gui McNay,388821,85475053029,22.00 zł,7/10/2023,true,31/10/2023
+Berkly,,Curro,Berkly  Curro,843564,53078895543,22.00 zł,12/10/2023,true,7/11/2023
+Analiese,Nerty,Phizakarley,Analiese Nerty Phizakarley,966416,03017536329,21.98 zł,7/10/2023,false,
+Colman,,Roglieri,Colman  Roglieri,118870,30011767032,22.00 zł,20/10/2023,true,24/10/2023
+Stephannie,,Hugo,Stephannie  Hugo,463733,35943983884,22.00 zł,26/10/2023,true,20/11/2023
+Rochette,Barbabra,Wymer,Rochette Barbabra Wymer,736628,25404568901,23.36 zł,23/10/2023,false,
+Forest,,Mixon,Forest  Mixon,406107,89494633349,26.87 zł,1/11/2023,false,
+Den,,Pegden,Den  Pegden,068675,03512937567,20.16 zł,22/10/2023,false,
+Stacy,,Koles,Stacy  Koles,295835,63430224830,22.00 zł,8/11/2023,true,5/12/2023
+Essie,Torie,Drable,Essie Torie Drable,940547,94605689586,0.00 zł,,false,
+Jemmie,,Chinnock,Jemmie  Chinnock,893216,50595877274,15.65 zł,1/11/2023,false,
+Toinette,Malchy,Molloy,Toinette Malchy Molloy,952348,39450305970,0.00 zł,,false,
+Minette,Jerrilyn,Heath,Minette Jerrilyn Heath,377374,02660704023,6.51 zł,16/10/2023,false,
+Mic,Tiff,Alejandri,Mic Tiff Alejandri,359342,48308380032,0.00 zł,,false,
+Toni,,Gamage,Toni  Gamage,973764,08460381990,22.43 zł,19/10/2023,false,
+Alexi,Phillipp,Boatwright,Alexi Phillipp Boatwright,314524,30729137315,15.07 zł,17/11/2023,false,
+Douglas,Haskel,Scholl,Douglas Haskel Scholl,661043,44740086110,0.00 zł,,false,
+Agretha,Kendell,Baltrushaitis,Agretha Kendell Baltrushaitis,174886,99600871385,22.00 zł,15/10/2023,true,13/11/2023
+Caitrin,,Gallaher,Caitrin  Gallaher,550290,11544228973,22.00 zł,9/10/2023,true,10/10/2023
+Fin,Tabatha,Woakes,Fin Tabatha Woakes,218032,13690241326,22.00 zł,15/11/2023,true,6/12/2023
+Windy,,Sheran,Windy  Sheran,933165,82098533611,0.00 zł,,false,
+Rora,Dru,Tharme,Rora Dru Tharme,128062,11257476832,22.00 zł,26/10/2023,true,8/11/2023
+Natasha,Edee,Wong,Natasha Edee Wong,118496,73434585428,22.00 zł,1/11/2023,true,11/11/2023
+Laurice,,Tropman,Laurice  Tropman,361080,26093596556,0.00 zł,,false,
+Lisette,Randell,Camplejohn,Lisette Randell Camplejohn,562758,46615412009,11.31 zł,6/11/2023,false,
+Edmon,,Eager,Edmon  Eager,728957,41320641183,0.00 zł,,false,
+Guendolen,Keeley,Mousby,Guendolen Keeley Mousby,624689,94269183364,25.06 zł,9/11/2023,false,
+Layney,,Allibon,Layney  Allibon,498326,13806215675,22.00 zł,4/11/2023,true,12/11/2023
+Melinda,,McDermott,Melinda  McDermott,401398,88864606637,22.00 zł,1/11/2023,true,10/11/2023
+Terrel,,Dufaur,Terrel  Dufaur,136548,66721475402,0.00 zł,,false,
+Wylie,,Muddicliffe,Wylie  Muddicliffe,392440,19250345710,15.78 zł,8/11/2023,false,
+Delilah,Maddy,Verdun,Delilah Maddy Verdun,470984,70077963768,25.16 zł,19/10/2023,false,
+Artemas,Marijn,Murrells,Artemas Marijn Murrells,361073,24403913655,0.00 zł,,false,
+Garwin,,Kilfeather,Garwin  Kilfeather,867058,48705267493,22.00 zł,28/10/2023,true,24/11/2023
+Zarla,,Jeanesson,Zarla  Jeanesson,714588,81778479987,18.80 zł,15/10/2023,false,
+Donny,Kerby,Bennallck,Donny Kerby Bennallck,841360,39824580350,0.00 zł,,false,
+Dominick,Georgianna,McEntee,Dominick Georgianna McEntee,944023,03748218084,0.00 zł,,false,
+Doralin,,Hendrichs,Doralin  Hendrichs,613174,71396417570,24.94 zł,16/11/2023,false,
+Hermie,Val,Scrowby,Hermie Val Scrowby,655419,91647611013,23.13 zł,3/11/2023,false,
+Domeniga,Danyelle,Ballefant,Domeniga Danyelle Ballefant,247172,57970712904,22.00 zł,13/11/2023,true,20/11/2023
+Abdel,Nappie,Regenhardt,Abdel Nappie Regenhardt,286833,62642402886,0.00 zł,,false,
+Aguie,,McBlain,Aguie  McBlain,691215,10621977512,22.00 zł,8/11/2023,true,18/11/2023
+Chrissy,,Lucius,Chrissy  Lucius,054930,57548034623,22.00 zł,23/10/2023,true,8/11/2023
+Linette,Timofei,Shayler,Linette Timofei Shayler,802287,58711623124,0.00 zł,,false,
+Lonny,Juan,Dranfield,Lonny Juan Dranfield,502987,42707332488,0.00 zł,,false,
+Dukie,Miner,Staneland,Dukie Miner Staneland,713736,92199552259,22.00 zł,16/11/2023,true,11/12/2023
+Dion,Lyell,Meader,Dion Lyell Meader,038982,73124069431,22.00 zł,16/10/2023,true,3/11/2023
+Penny,,Billham,Penny  Billham,153946,33607452956,13.17 zł,16/10/2023,false,
+Ashleigh,Renie,Santostefano.,Ashleigh Renie Santostefano.,506665,39553765018,21.54 zł,3/10/2023,false,
+Avis,Melany,Putman,Avis Melany Putman,818998,36220103525,18.49 zł,9/10/2023,false,
+Rosemary,Scottie,Breem,Rosemary Scottie Breem,683011,65695016699,22.00 zł,26/10/2023,true,7/11/2023
+Demott,,Cracknell,Demott  Cracknell,545471,24769199015,22.00 zł,11/11/2023,true,14/11/2023
+Ellery,Romona,Fuzzey,Ellery Romona Fuzzey,728579,42888518611,0.00 zł,,false,
+Maxine,Ranique,Bricksey,Maxine Ranique Bricksey,400771,01800728590,0.00 zł,,false,
+Rhea,Pauline,Howsego,Rhea Pauline Howsego,081159,08371748960,22.00 zł,21/10/2023,true,14/11/2023
+Karlene,Janith,M'Quhan,Karlene Janith M'Quhan,942894,71969406462,22.00 zł,16/10/2023,true,11/11/2023
+Gaylor,Janenna,Abdon,Gaylor Janenna Abdon,416948,63925414590,16.56 zł,7/10/2023,false,
+Valry,Gracia,Arcase,Valry Gracia Arcase,753065,06977654270,22.00 zł,5/11/2023,true,25/11/2023
+Xerxes,Crista,Hinemoor,Xerxes Crista Hinemoor,243199,60142250431,22.00 zł,17/10/2023,true,9/11/2023
+Gwennie,Danna,Ricciardi,Gwennie Danna Ricciardi,299332,07951948658,22.00 zł,30/10/2023,true,15/11/2023
+Maxy,,Ianni,Maxy  Ianni,119836,78047199382,22.00 zł,12/11/2023,true,8/12/2023
+Cletus,Garth,Carroll,Cletus Garth Carroll,812516,07660650105,14.75 zł,3/10/2023,false,
+Holmes,,Chasen,Holmes  Chasen,712627,59625444170,0.00 zł,,false,
+Zola,Cody,Wooldridge,Zola Cody Wooldridge,962667,56851786904,0.00 zł,,false,
+Lennie,Wyndham,Lowes,Lennie Wyndham Lowes,930924,66895678465,18.42 zł,25/10/2023,false,
+Horace,Lorraine,Girardoni,Horace Lorraine Girardoni,521570,97349017804,0.00 zł,,false,
+Neala,Cynthia,Pawfoot,Neala Cynthia Pawfoot,000015,05227128231,23.46 zł,14/11/2023,false,
+Shelba,,Tansly,Shelba  Tansly,501406,62647074239,22.03 zł,14/10/2023,false,
+Isadore,Lucia,Walsh,Isadore Lucia Walsh,283035,30554549794,22.00 zł,6/11/2023,true,12/11/2023
+Nissa,Garrot,Ochterlony,Nissa Garrot Ochterlony,745845,79243531657,16.88 zł,20/10/2023,false,
+Jule,Gay,Stephen,Jule Gay Stephen,502247,59572099673,22.00 zł,14/11/2023,true,24/11/2023
+Estevan,,Kelcher,Estevan  Kelcher,009857,01602452954,22.00 zł,11/10/2023,true,22/10/2023
+Elita,Mahala,Martschik,Elita Mahala Martschik,576985,23212113298,0.00 zł,,false,
+Gale,Tonia,Terris,Gale Tonia Terris,715346,06749406313,0.00 zł,,false,
+Lynda,Nicolea,Timmermann,Lynda Nicolea Timmermann,156594,60201228575,21.46 zł,7/11/2023,false,
+Haze,Gregorius,Ames,Haze Gregorius Ames,548502,49904417468,23.32 zł,15/11/2023,false,
+Tiler,,Parham,Tiler  Parham,979312,42227187270,22.00 zł,15/11/2023,true,1/12/2023
+Stillmann,Tiffani,Howis,Stillmann Tiffani Howis,590204,25408452613,0.00 zł,,false,
+Pincas,Renado,Chatten,Pincas Renado Chatten,016783,67877383457,22.00 zł,2/10/2023,true,26/10/2023
+Stevana,Allyce,London,Stevana Allyce London,300364,46982750829,22.00 zł,12/10/2023,true,9/11/2023
+Anatola,Matteo,Bromet,Anatola Matteo Bromet,406762,34224851701,22.00 zł,1/11/2023,true,22/11/2023
+Alejandra,,Yedy,Alejandra  Yedy,343529,50858699764,0.00 zł,,false,
+Lanie,Tanner,McGlone,Lanie Tanner McGlone,401069,59204007056,22.00 zł,20/10/2023,true,18/11/2023
+Correy,Theresa,Saile,Correy Theresa Saile,068455,94406564037,0.00 zł,,false,
+Kalila,Benjie,Dearman,Kalila Benjie Dearman,753928,15275161816,17.86 zł,13/11/2023,false,
+Jewel,Aarika,Hodges,Jewel Aarika Hodges,626291,71757482620,22.00 zł,22/10/2023,true,15/11/2023
+Teodoro,,Mackleden,Teodoro  Mackleden,627667,51003194651,0.00 zł,,false,
+Daren,Richie,Tieraney,Daren Richie Tieraney,442586,61801716296,0.00 zł,,false,
+Flossy,,Baume,Flossy  Baume,306354,59041322564,22.00 zł,5/10/2023,true,15/10/2023
+Elyn,Silvio,Crose,Elyn Silvio Crose,139429,95950032773,19.14 zł,5/10/2023,false,
+Danita,Ida,Basilotta,Danita Ida Basilotta,897090,98781965409,0.00 zł,,false,
+Lodovico,Birch,Muncer,Lodovico Birch Muncer,831413,84454217432,27.51 zł,1/10/2023,false,
+Garrett,Codie,Girodias,Garrett Codie Girodias,164117,28805832226,0.00 zł,,false,
+Doretta,,Brunnstein,Doretta  Brunnstein,106007,75098642238,18.80 zł,10/11/2023,false,
+Chadd,Henrieta,Roswarne,Chadd Henrieta Roswarne,745855,23013124291,22.16 zł,5/11/2023,false,
+Joana,Alexandro,Verbeke,Joana Alexandro Verbeke,103041,98103737483,0.00 zł,,false,
+Marieann,Joey,Penketh,Marieann Joey Penketh,829724,40492827404,0.00 zł,,false,
+Vinny,Mandi,Slocombe,Vinny Mandi Slocombe,039170,50790835537,0.00 zł,,false,
+Abie,Virgie,Erik,Abie Virgie Erik,097841,35095394590,20.54 zł,3/10/2023,false,
+Terrance,,Lamprey,Terrance  Lamprey,231697,50823885672,18.47 zł,16/11/2023,false,
+Gerick,Zebulen,Georgescu,Gerick Zebulen Georgescu,699209,14713076052,0.00 zł,,false,
+Weylin,,Devanny,Weylin  Devanny,383514,61220987162,22.00 zł,21/10/2023,true,1/11/2023
+Noella,Gale,Hacquel,Noella Gale Hacquel,576993,79930496014,0.00 zł,,false,
+Anton,Abbot,Frawley,Anton Abbot Frawley,071807,94933710356,22.00 zł,8/11/2023,true,10/11/2023
+Cathrin,Atalanta,Pharro,Cathrin Atalanta Pharro,361619,53990643688,22.00 zł,13/10/2023,true,23/10/2023
+Sibylle,Fidelia,Sidebotham,Sibylle Fidelia Sidebotham,731601,99121574885,0.00 zł,,false,
+Loralie,,Rampling,Loralie  Rampling,544246,52434900437,19.48 zł,17/10/2023,false,
+Chet,Garik,Dronsfield,Chet Garik Dronsfield,866886,07921354845,0.00 zł,,false,
+Babbette,,Wickwar,Babbette  Wickwar,797399,61628095276,0.00 zł,,false,
+Bobbe,,Tarte,Bobbe  Tarte,816324,55621711737,27.31 zł,9/11/2023,false,
+Mabelle,,Turban,Mabelle  Turban,837763,99812545253,27.17 zł,10/11/2023,false,
+Dev,Josie,Vasyuchov,Dev Josie Vasyuchov,160011,26612104430,22.80 zł,4/10/2023,false,
+Alene,,Stock,Alene  Stock,524027,56881585414,35.84 zł,19/10/2023,false,
+Maurizio,Erinna,Broad,Maurizio Erinna Broad,410808,40058063694,29.12 zł,31/10/2023,false,
+Laurene,Georg,Claisse,Laurene Georg Claisse,330519,25689169802,23.27 zł,23/10/2023,false,
+Philly,Marlow,Trayhorn,Philly Marlow Trayhorn,042463,30452721820,22.00 zł,13/10/2023,true,1/11/2023
+Vern,Kermy,Roubert,Vern Kermy Roubert,223528,48121407932,22.00 zł,16/11/2023,true,16/12/2023
+Isador,Jess,Wandtke,Isador Jess Wandtke,280144,81908109570,22.00 zł,21/10/2023,true,17/11/2023
+Burtie,,Dodsworth,Burtie  Dodsworth,682148,98256115583,0.00 zł,,false,
+Ashbey,Onofredo,Weddup,Ashbey Onofredo Weddup,506352,86538274161,19.15 zł,5/10/2023,false,
+Marian,Ariana,Brislan,Marian Ariana Brislan,409202,74117834497,22.00 zł,12/10/2023,true,1/11/2023
+Dulcine,Siobhan,Thulborn,Dulcine Siobhan Thulborn,512465,70189817572,0.00 zł,,false,
+Jakob,Ingra,Kuhnhardt,Jakob Ingra Kuhnhardt,961137,40664650365,22.32 zł,27/10/2023,false,
+Kaela,Veronique,Manhare,Kaela Veronique Manhare,553723,59129452799,20.45 zł,2/10/2023,false,
+Turner,Adams,Ludy,Turner Adams Ludy,784822,48660302842,22.00 zł,21/10/2023,true,4/11/2023
+Demetre,Ulrike,Presshaugh,Demetre Ulrike Presshaugh,915948,35086151896,0.00 zł,,false,
+Elena,,Bonick,Elena  Bonick,775333,77499962375,0.00 zł,,false,
+Aland,,Wadly,Aland  Wadly,947282,16310320195,0.00 zł,,false,
+Alastair,,Doggrell,Alastair  Doggrell,094648,79384187282,24.55 zł,16/10/2023,false,
+Shurwood,Archy,Arnoll,Shurwood Archy Arnoll,856665,79535505074,0.00 zł,,false,
+Ambrose,,Piggens,Ambrose  Piggens,772818,52434445629,0.00 zł,,false,
+Allys,Annemarie,Clack,Allys Annemarie Clack,872537,48097740546,22.00 zł,5/11/2023,true,18/11/2023
+Gilberta,,Baake,Gilberta  Baake,402905,62072519332,22.00 zł,4/11/2023,true,6/11/2023
+Kata,Happy,Steven,Kata Happy Steven,409038,31081395159,22.00 zł,9/11/2023,true,29/11/2023
+Bryce,Jarrett,Maevela,Bryce Jarrett Maevela,864076,54591073129,0.00 zł,,false,
+Annora,Riannon,Barwood,Annora Riannon Barwood,154888,09762124239,28.30 zł,28/10/2023,false,
+Peder,,Baynham,Peder  Baynham,390358,50245011518,0.00 zł,,false,
+Maud,Gal,Gillicuddy,Maud Gal Gillicuddy,227462,34239777426,22.00 zł,27/10/2023,true,7/11/2023
+Harland,Amby,Winsiowiecki,Harland Amby Winsiowiecki,959157,64590447521,0.00 zł,,false,
+Felice,,Elstow,Felice  Elstow,783572,10333482365,29.03 zł,7/11/2023,false,
+Robinson,,Woolger,Robinson  Woolger,717499,34564985437,22.00 zł,14/11/2023,true,10/12/2023
+Sarina,,Offiler,Sarina  Offiler,718445,25848128797,15.84 zł,11/11/2023,false,
+Lottie,Emlyn,Guerri,Lottie Emlyn Guerri,663781,01332206532,22.00 zł,14/10/2023,true,9/11/2023
+Caril,Mathias,Reedyhough,Caril Mathias Reedyhough,727126,86049682100,25.62 zł,5/10/2023,false,
+Paxon,,Slimings,Paxon  Slimings,195550,80034762721,22.00 zł,7/10/2023,true,29/10/2023
+Oberon,Hedvig,Addington,Oberon Hedvig Addington,471498,32621379034,30.32 zł,1/10/2023,false,
+Darby,,Curless,Darby  Curless,305581,31974762997,0.00 zł,,false,
+Giorgi,,Amberger,Giorgi  Amberger,604788,07011785095,0.00 zł,,false,
+Thedrick,Shara,Reddecliffe,Thedrick Shara Reddecliffe,456801,06764645366,22.00 zł,17/11/2023,true,10/12/2023
+Livvyy,Lorens,French,Livvyy Lorens French,728473,57047541705,22.00 zł,28/10/2023,true,13/11/2023
+Baldwin,Nert,Bushill,Baldwin Nert Bushill,667798,51967975517,22.00 zł,28/10/2023,true,15/11/2023
+Noach,,O'Scandall,Noach  O'Scandall,502811,56936570257,22.00 zł,8/10/2023,true,27/10/2023
+Haroun,Irving,Lawrenz,Haroun Irving Lawrenz,520303,47275179857,22.00 zł,7/11/2023,true,26/11/2023
+Tobit,Friederike,Stadden,Tobit Friederike Stadden,746657,13455795770,20.15 zł,22/10/2023,false,
+Amie,Frederica,Marvel,Amie Frederica Marvel,483911,17000840528,19.50 zł,4/10/2023,false,
+Sean,Russell,Clowney,Sean Russell Clowney,413651,10697838943,0.00 zł,,false,
+Martina,,Handscombe,Martina  Handscombe,986849,98464104813,0.00 zł,,false,
+Arleyne,Roberto,Bruna,Arleyne Roberto Bruna,142775,68337462356,22.00 zł,11/11/2023,true,18/11/2023
+Car,Lukas,Meddemmen,Car Lukas Meddemmen,115176,45883555910,24.82 zł,7/10/2023,false,
+Jacklin,,Medland,Jacklin  Medland,675678,74354661259,22.00 zł,8/11/2023,true,20/11/2023
+Zechariah,Harli,Picton,Zechariah Harli Picton,243166,29930690079,22.00 zł,22/10/2023,true,16/11/2023
+Deidre,Cal,Carbry,Deidre Cal Carbry,531476,38135969198,22.00 zł,11/11/2023,true,10/12/2023
+Rhoda,,Whittick,Rhoda  Whittick,435035,92378693349,0.00 zł,,false,
+Carolus,,Ickovitz,Carolus  Ickovitz,382865,82024064031,0.00 zł,,false,
+Kellia,Caleb,Laugharne,Kellia Caleb Laugharne,330940,33660743291,0.00 zł,,false,
+Orson,Rogers,Wyrill,Orson Rogers Wyrill,266073,06269538162,15.31 zł,20/10/2023,false,
+Sophey,Juliana,Cotes,Sophey Juliana Cotes,044605,96169827125,0.00 zł,,false,
+Benedetto,,Romke,Benedetto  Romke,828082,85551308210,22.00 zł,15/11/2023,true,16/11/2023
+Jeramey,Verge,Puddle,Jeramey Verge Puddle,068946,29327289894,13.30 zł,8/10/2023,false,
+Scotti,,Zum Felde,Scotti  Zum Felde,677551,64457176076,22.00 zł,13/10/2023,true,18/10/2023
+Leila,Alexis,Sawfoot,Leila Alexis Sawfoot,869098,24065246968,0.00 zł,,false,
+Haven,Coletta,Van Velden,Haven Coletta Van Velden,998910,40259474926,22.00 zł,12/11/2023,true,27/11/2023
+Duffie,,Lorrimer,Duffie  Lorrimer,218371,22692081106,29.34 zł,6/11/2023,false,
+Quentin,Rodrique,Cordobes,Quentin Rodrique Cordobes,396877,43157006184,21.24 zł,8/10/2023,false,
+Timmi,Janek,Kurth,Timmi Janek Kurth,933648,29667079668,0.00 zł,,false,
+Georgena,Perry,Laddle,Georgena Perry Laddle,727182,85931198638,0.00 zł,,false,
+Berty,,Champken,Berty  Champken,955254,99263604328,0.00 zł,,false,
+Celka,,Jakeman,Celka  Jakeman,727758,06524398696,0.00 zł,,false,
+Ashlin,Phaidra,Corser,Ashlin Phaidra Corser,373411,82989583713,22.00 zł,5/10/2023,true,17/10/2023
+Rudolfo,Cello,Dreini,Rudolfo Cello Dreini,498163,93671211093,22.00 zł,1/11/2023,true,29/11/2023
+Jacobo,Latisha,De Laci,Jacobo Latisha De Laci,229461,55668493006,0.00 zł,,false,
+Berget,Annette,Smardon,Berget Annette Smardon,948822,82300385061,22.00 zł,25/10/2023,true,19/11/2023
+Minerva,Cobby,Bird,Minerva Cobby Bird,606431,05442295682,22.00 zł,25/10/2023,true,27/10/2023
+Joelynn,Umeko,Woodwin,Joelynn Umeko Woodwin,026946,45347240316,0.00 zł,,false,
+Sib,,Marages,Sib  Marages,277520,08183028138,20.14 zł,6/11/2023,false,
+Cathe,,Ondrasek,Cathe  Ondrasek,243128,74572088711,0.00 zł,,false,
+Jade,,Chave,Jade  Chave,314611,55212318749,22.42 zł,19/10/2023,false,
+Lilla,Petrina,Cafferky,Lilla Petrina Cafferky,334951,35934351174,22.00 zł,26/10/2023,true,11/11/2023
+Dirk,Dorise,Morten,Dirk Dorise Morten,820628,18559300173,22.00 zł,17/11/2023,true,2/12/2023
+Sonnie,Jillane,Rawsthorne,Sonnie Jillane Rawsthorne,471320,74068553938,22.00 zł,15/11/2023,true,10/12/2023
+Umberto,,Vasilyev,Umberto  Vasilyev,842758,02352795526,30.51 zł,6/10/2023,false,
+Artemus,Cesar,Brissenden,Artemus Cesar Brissenden,212753,11475499039,20.18 zł,14/11/2023,false,
+Gisela,Gilly,Forestel,Gisela Gilly Forestel,242490,85235191767,22.00 zł,1/11/2023,true,20/11/2023
+Christoph,Noelani,Crittal,Christoph Noelani Crittal,808398,17820085543,22.00 zł,10/11/2023,true,12/11/2023
+Hallsy,Markus,Bentame,Hallsy Markus Bentame,765663,16956258376,15.32 zł,25/10/2023,false,
+Kevon,,Robardet,Kevon  Robardet,990681,03644509249,27.93 zł,17/11/2023,false,
+Zara,,Winwright,Zara  Winwright,101965,26162911571,22.00 zł,3/10/2023,true,20/10/2023
+Gabrielle,Arlina,Keats,Gabrielle Arlina Keats,400726,73137254499,0.00 zł,,false,
+Emelina,,Piccard,Emelina  Piccard,634940,84751946631,25.65 zł,20/10/2023,false,
+Verine,,Curran,Verine  Curran,768124,94650415486,22.00 zł,5/10/2023,true,29/10/2023
+Tristam,Leonie,Extil,Tristam Leonie Extil,755020,51686895676,22.00 zł,5/11/2023,true,20/11/2023
+Evita,,Visco,Evita  Visco,474144,97908694234,0.00 zł,,false,
+Allissa,Pavia,Pauleau,Allissa Pavia Pauleau,939611,62728377539,0.00 zł,,false,
+Gabriell,,Blampy,Gabriell  Blampy,295546,52743579841,17.72 zł,3/11/2023,false,
+Kalina,Netta,Muckersie,Kalina Netta Muckersie,443959,51857968255,23.12 zł,16/11/2023,false,
+Gianni,,Laflin,Gianni  Laflin,688538,16649574199,22.00 zł,2/11/2023,true,18/11/2023
+Prissie,Cristin,Mayling,Prissie Cristin Mayling,669756,29177167673,17.58 zł,11/10/2023,false,
+Dennie,,Stammirs,Dennie  Stammirs,318022,28326205294,20.31 zł,2/10/2023,false,
+Jan,Rouvin,Dayley,Jan Rouvin Dayley,152852,64387942147,0.00 zł,,false,
+Constancy,Benn,Clace,Constancy Benn Clace,118679,10466810961,24.62 zł,22/10/2023,false,
+Blaine,,Casel,Blaine  Casel,467584,46587321405,22.00 zł,7/11/2023,true,22/11/2023
+Sven,,Penney,Sven  Penney,246261,99079840726,16.01 zł,2/11/2023,false,
+Nev,Evelyn,Petyt,Nev Evelyn Petyt,438465,13313860767,27.00 zł,11/11/2023,false,
+Quinlan,Tripp,Lancashire,Quinlan Tripp Lancashire,891571,44145949260,13.52 zł,10/10/2023,false,
+Annetta,Clementius,Schimank,Annetta Clementius Schimank,901273,49690571590,22.00 zł,21/10/2023,true,26/10/2023
+Ferrell,,Aloshikin,Ferrell  Aloshikin,397458,98618369670,22.00 zł,11/11/2023,true,13/11/2023
+Edwina,D'arcy,Spindler,Edwina D'arcy Spindler,337432,80923629500,0.00 zł,,false,
+Zacharie,Otis,Goslin,Zacharie Otis Goslin,541543,24914396421,22.00 zł,2/11/2023,true,1/12/2023
+Leo,Josephina,McRuvie,Leo Josephina McRuvie,742567,69888657696,22.00 zł,1/10/2023,true,2/10/2023
+Xymenes,,Cowing,Xymenes  Cowing,059537,23035700118,25.42 zł,7/11/2023,false,
+Darleen,Laraine,Coggan,Darleen Laraine Coggan,730733,98925545268,22.00 zł,22/10/2023,true,9/11/2023
+Kathe,,Elleyne,Kathe  Elleyne,178104,90410437817,22.00 zł,18/10/2023,true,21/10/2023
+Herminia,Lawrence,Bromilow,Herminia Lawrence Bromilow,705258,58309525029,19.47 zł,31/10/2023,false,
+Rica,Harland,Caddie,Rica Harland Caddie,480362,92407983390,22.00 zł,7/11/2023,true,16/11/2023
+Tonye,Jerrie,Eaves,Tonye Jerrie Eaves,909535,85269824337,25.33 zł,26/10/2023,false,
+Iago,,Cruft,Iago  Cruft,736941,86816232084,0.00 zł,,false,
+Fleming,,Vanezis,Fleming  Vanezis,148995,30720580539,16.70 zł,2/10/2023,false,
+Corella,,Blackly,Corella  Blackly,009271,83534613912,22.00 zł,12/11/2023,true,7/12/2023
+Priscella,Herve,Rosini,Priscella Herve Rosini,065828,91610042033,0.00 zł,,false,
+Kristofer,Charlean,Wickham,Kristofer Charlean Wickham,423457,61327604141,23.12 zł,12/11/2023,false,
+Eva,,Wilprecht,Eva  Wilprecht,852136,79503595402,22.00 zł,7/10/2023,true,6/11/2023
+Cassy,Zebedee,Mc Elory,Cassy Zebedee Mc Elory,992081,35657032122,0.00 zł,,false,
+Salaidh,Hillie,Fero,Salaidh Hillie Fero,640956,91477979954,22.00 zł,9/10/2023,true,5/11/2023
+Sarita,Ruperta,Colliss,Sarita Ruperta Colliss,724332,60942452699,24.21 zł,30/10/2023,false,
+Myrtia,Rafaellle,Twyford,Myrtia Rafaellle Twyford,390528,88029044142,0.00 zł,,false,
+Cece,Ruddie,Scrigmour,Cece Ruddie Scrigmour,260117,76357839852,0.00 zł,,false,
+Cheryl,Alasdair,Imm,Cheryl Alasdair Imm,641736,00454062304,22.00 zł,13/11/2023,true,7/12/2023
+Nolie,,Oxbie,Nolie  Oxbie,326845,40981477124,0.00 zł,,false,
+Becki,,Sreenan,Becki  Sreenan,379465,80661581311,22.00 zł,18/10/2023,true,24/10/2023
+Shirline,Lorilee,Thomkins,Shirline Lorilee Thomkins,873898,95216045666,19.73 zł,18/10/2023,false,
+Catherin,,Besnard,Catherin  Besnard,223111,77426942553,22.00 zł,6/10/2023,true,3/11/2023
+Pippa,Juliette,Maha,Pippa Juliette Maha,488484,59987201978,25.17 zł,22/10/2023,false,
+Adah,Celene,Chittey,Adah Celene Chittey,651453,77723591019,22.00 zł,3/10/2023,true,12/10/2023
+Donnie,,Devey,Donnie  Devey,299591,60234925610,22.00 zł,4/10/2023,true,23/10/2023
+Anissa,,Perceval,Anissa  Perceval,348610,53576269763,17.03 zł,27/10/2023,false,
+Ethel,,Pattington,Ethel  Pattington,114677,72783064702,22.00 zł,1/11/2023,true,12/11/2023
+Charlene,,Ebourne,Charlene  Ebourne,863194,95589954455,20.41 zł,30/10/2023,false,
+Emmery,Hilde,Reyson,Emmery Hilde Reyson,379986,79656431141,15.26 zł,18/10/2023,false,
+Cammy,,Troth,Cammy  Troth,322879,27642267566,22.00 zł,1/10/2023,true,16/10/2023
+Persis,,Krimmer,Persis  Krimmer,807246,51938621882,16.11 zł,6/11/2023,false,
+Jewelle,Dimitry,Seagood,Jewelle Dimitry Seagood,273849,71139186919,22.00 zł,8/11/2023,true,26/11/2023
+Maude,Mariya,Scare,Maude Mariya Scare,054867,84139656222,23.04 zł,13/10/2023,false,
+Silvain,Clarabelle,Cane,Silvain Clarabelle Cane,752969,18859839469,22.00 zł,4/11/2023,true,7/11/2023
+Cirstoforo,Issie,MacCaghan,Cirstoforo Issie MacCaghan,245225,91822527632,22.00 zł,9/10/2023,true,31/10/2023
+Griff,Jacky,Gamett,Griff Jacky Gamett,606590,56536582779,26.54 zł,12/10/2023,false,
+Glenda,Karon,Cosstick,Glenda Karon Cosstick,088293,29397917124,18.64 zł,14/10/2023,false,
+Terri,,Carvill,Terri  Carvill,109810,14611483607,12.61 zł,14/11/2023,false,
+Addia,,Mirando,Addia  Mirando,528678,10502105758,0.00 zł,,false,
+Hyacinthie,,Oxer,Hyacinthie  Oxer,123165,92920649875,19.69 zł,30/10/2023,false,
+Ailene,,Roseveare,Ailene  Roseveare,619291,85788992161,14.02 zł,27/10/2023,false,
+Lonni,,Jurasek,Lonni  Jurasek,897530,15742333652,22.00 zł,12/10/2023,true,22/10/2023
+Kamilah,Ingamar,Cramphorn,Kamilah Ingamar Cramphorn,787418,43061120016,18.41 zł,31/10/2023,false,
+Louie,,Sadler,Louie  Sadler,674510,14213102452,26.36 zł,24/10/2023,false,
+Rafaelia,Web,Towsey,Rafaelia Web Towsey,300968,88622514879,22.27 zł,2/10/2023,false,
+Stoddard,Rocky,Somerville,Stoddard Rocky Somerville,610795,69754859757,22.00 zł,12/10/2023,true,27/10/2023
+Lu,,Matuszinski,Lu  Matuszinski,480934,84909319210,20.56 zł,5/10/2023,false,
+Guglielmo,Lowrance,Jankiewicz,Guglielmo Lowrance Jankiewicz,418802,01842026263,25.90 zł,3/10/2023,false,
+Karrie,,Dunridge,Karrie  Dunridge,023665,70827521155,0.00 zł,,false,
+Edna,Taffy,Brunsdon,Edna Taffy Brunsdon,143004,10615361137,18.60 zł,8/11/2023,false,
+Tedmund,Megen,Carlan,Tedmund Megen Carlan,338108,07807082728,22.00 zł,12/11/2023,true,18/11/2023
+Arther,,De Gogay,Arther  De Gogay,881092,01690153037,13.53 zł,9/10/2023,false,
+Barbabra,Joanie,Uren,Barbabra Joanie Uren,116090,94712351630,22.00 zł,9/11/2023,true,30/11/2023
+Dewie,,Leece,Dewie  Leece,951867,94391012604,26.25 zł,11/11/2023,false,
+Erminia,,Kennefick,Erminia  Kennefick,315831,97519207460,22.00 zł,25/10/2023,true,3/11/2023
+Beverly,Terry,Winspear,Beverly Terry Winspear,579486,64088571226,22.00 zł,9/11/2023,true,5/12/2023
+Eleonora,Joscelin,Dunstan,Eleonora Joscelin Dunstan,799241,81030644509,0.00 zł,,false,
+Ariela,,Blazej,Ariela  Blazej,097800,14792678610,22.00 zł,24/10/2023,true,30/10/2023
+Erminie,,Blasoni,Erminie  Blasoni,721199,98316052826,0.00 zł,,false,
+Esta,Mychal,Ramelot,Esta Mychal Ramelot,023461,41991283328,24.62 zł,7/11/2023,false,
+Maximilien,Sumner,Gurge,Maximilien Sumner Gurge,488086,98323396848,22.35 zł,30/10/2023,false,
+Milicent,Goldarina,Robun,Milicent Goldarina Robun,071755,78795421898,22.00 zł,13/10/2023,true,31/10/2023
+Marietta,Juliane,Mallinson,Marietta Juliane Mallinson,598308,68932676582,22.00 zł,23/10/2023,true,7/11/2023
+Cairistiona,Fenelia,Figliovanni,Cairistiona Fenelia Figliovanni,289517,53216766312,22.00 zł,18/10/2023,true,27/10/2023
+Cynthea,Bibbie,Messham,Cynthea Bibbie Messham,581776,21811156175,0.00 zł,,false,
+Traci,,Stollenberg,Traci  Stollenberg,433466,97785738827,11.61 zł,13/10/2023,false,
+Rosie,Geralda,Domenge,Rosie Geralda Domenge,076225,88896774368,34.28 zł,11/10/2023,false,
+Rayna,Thekla,Nairn,Rayna Thekla Nairn,312424,99086183884,8.70 zł,18/10/2023,false,
+Demott,Lilyan,Royson,Demott Lilyan Royson,165105,96262506980,0.00 zł,,false,
+Matti,,Farey,Matti  Farey,464360,81472284778,22.00 zł,1/11/2023,true,17/11/2023
+Zia,Phyllis,Houseley,Zia Phyllis Houseley,254623,99181550623,22.00 zł,16/11/2023,true,25/11/2023
+Derby,,Dowty,Derby  Dowty,163754,54374116390,16.67 zł,31/10/2023,false,
+Andy,,Birkmyr,Andy  Birkmyr,733546,67023924586,26.73 zł,7/10/2023,false,
+Janet,,Bewicke,Janet  Bewicke,320102,76923619074,0.00 zł,,false,
+Moshe,,Huston,Moshe  Huston,578679,90483734349,0.00 zł,,false,
+Joe,,Mcimmie,Joe  Mcimmie,774323,84869206524,22.00 zł,5/10/2023,true,10/10/2023
+Natka,Andris,Paulillo,Natka Andris Paulillo,040742,75474803136,0.00 zł,,false,
+Torr,Caresse,Baversor,Torr Caresse Baversor,226307,74776506887,22.00 zł,7/10/2023,true,29/10/2023
+Ibby,,Youthead,Ibby  Youthead,674047,31221632245,22.00 zł,7/10/2023,true,5/11/2023
+Mitch,,Pinfold,Mitch  Pinfold,363485,26307823010,22.00 zł,11/11/2023,true,20/11/2023
+Odelinda,,Nicholas,Odelinda  Nicholas,010189,38003430318,14.35 zł,3/10/2023,false,
+Malachi,Kristi,Riddel,Malachi Kristi Riddel,662401,77161509369,25.29 zł,18/10/2023,false,
+Reena,,Grimsdike,Reena  Grimsdike,749264,02038906260,22.00 zł,4/11/2023,true,27/11/2023
+Chadwick,,Hayesman,Chadwick  Hayesman,213813,41522218286,22.00 zł,9/11/2023,true,7/12/2023
+Grange,Frans,Coode,Grange Frans Coode,252784,06119375359,22.61 zł,7/11/2023,false,
+Anthony,Kristine,Dargavel,Anthony Kristine Dargavel,397366,34530603135,0.00 zł,,false,
+Sigfrid,,Procter,Sigfrid  Procter,138670,46206638012,22.00 zł,15/11/2023,true,12/12/2023
+Hugo,Renelle,Lett,Hugo Renelle Lett,277185,29842292990,13.27 zł,13/11/2023,false,
+Blake,Paulie,Staig,Blake Paulie Staig,437822,09614407364,22.00 zł,15/10/2023,true,24/10/2023
+Tom,,Haylor,Tom  Haylor,403816,90284956170,21.73 zł,1/10/2023,false,
+Donella,Edita,Bonehill,Donella Edita Bonehill,461138,21823284862,20.27 zł,26/10/2023,false,
+Calla,,Mulcaster,Calla  Mulcaster,764408,99391500230,16.14 zł,14/11/2023,false,
+Janela,,Thurborn,Janela  Thurborn,738695,93846708916,22.00 zł,9/10/2023,true,22/10/2023
+Carroll,Adda,Ambroz,Carroll Adda Ambroz,309211,80664699774,0.00 zł,,false,
+Rickard,Amie,Templar,Rickard Amie Templar,534203,57654686508,22.00 zł,4/10/2023,true,24/10/2023
+Gabriell,,Doodney,Gabriell  Doodney,733286,05136442392,17.64 zł,5/11/2023,false,
+Clemence,Charin,Moen,Clemence Charin Moen,464044,90464674542,22.00 zł,23/10/2023,true,20/11/2023
+Jill,Cyril,Wemes,Jill Cyril Wemes,268262,03508990779,22.00 zł,9/10/2023,true,31/10/2023
+Coretta,Fernande,Mepsted,Coretta Fernande Mepsted,383242,19592916118,22.00 zł,1/11/2023,true,28/11/2023
+Cori,,McCullum,Cori  McCullum,309918,19920986997,0.00 zł,,false,
+Meagan,,Barribal,Meagan  Barribal,418316,78326081270,22.00 zł,2/10/2023,true,3/10/2023
+Else,,Synke,Else  Synke,796776,40655556172,22.00 zł,11/10/2023,true,27/10/2023
+Margarette,,Bensley,Margarette  Bensley,437235,75675837785,26.01 zł,11/11/2023,false,
+Merrily,Nero,Leynagh,Merrily Nero Leynagh,510471,22355417077,22.00 zł,24/10/2023,true,7/11/2023
+Tyne,,Milborn,Tyne  Milborn,874320,82293502990,0.00 zł,,false,
+Rhiamon,Guglielma,Scholl,Rhiamon Guglielma Scholl,567510,20967811977,22.00 zł,7/10/2023,true,9/10/2023
+Meir,,Lainton,Meir  Lainton,818830,27662501492,22.00 zł,21/10/2023,true,18/11/2023
+Beatrix,Tobin,Yve,Beatrix Tobin Yve,458975,70165312590,18.45 zł,14/10/2023,false,
+Gerrilee,Leora,Cattermull,Gerrilee Leora Cattermull,732096,38652629626,0.00 zł,,false,
+Mandel,Gabrila,Killeen,Mandel Gabrila Killeen,125027,51450425488,22.00 zł,14/11/2023,true,6/12/2023
+Latia,,Pleasance,Latia  Pleasance,235976,01048375562,17.62 zł,29/10/2023,false,
+Rici,Ritchie,Preuvost,Rici Ritchie Preuvost,767318,47816266117,24.53 zł,11/11/2023,false,
+Jessamyn,Petra,Hearty,Jessamyn Petra Hearty,658461,70200385041,31.21 zł,9/11/2023,false,
+Cheryl,,Nehls,Cheryl  Nehls,056874,84922699150,0.00 zł,,false,
+Zebulon,,Tappin,Zebulon  Tappin,317788,33747860598,31.23 zł,11/10/2023,false,
+Nefen,Lydon,Jakab,Nefen Lydon Jakab,954100,94527552037,0.00 zł,,false,
+Judd,Sasha,Gyurkovics,Judd Sasha Gyurkovics,704444,13258615853,0.00 zł,,false,
+Florette,Enrichetta,Mellon,Florette Enrichetta Mellon,694987,76000110241,17.88 zł,26/10/2023,false,
+Aldridge,,Winchester,Aldridge  Winchester,769336,39752479430,22.61 zł,12/10/2023,false,
+Jedd,Garfield,Shenfisch,Jedd Garfield Shenfisch,457582,49503935041,24.91 zł,16/10/2023,false,
+Kennan,,Lardeur,Kennan  Lardeur,824596,61669309937,20.86 zł,3/10/2023,false,
+Natalya,,Runsey,Natalya  Runsey,726537,24814624360,22.00 zł,8/10/2023,true,7/11/2023
+Amara,Prue,Yeardley,Amara Prue Yeardley,000867,60382597599,0.00 zł,,false,
+Abra,,Hansbury,Abra  Hansbury,122906,57213829731,0.00 zł,,false,
+Ragnar,Riley,Ebrall,Ragnar Riley Ebrall,256854,61419951813,0.00 zł,,false,
+Enoch,Sargent,Simeoni,Enoch Sargent Simeoni,422222,32847844922,34.29 zł,1/10/2023,false,
+Gunther,Prudence,Strelitz,Gunther Prudence Strelitz,809178,24717090700,21.35 zł,25/10/2023,false,
+Trista,Leelah,Robbins,Trista Leelah Robbins,629670,65665989271,0.00 zł,,false,
+Janie,Tracy,Grimsell,Janie Tracy Grimsell,364492,38706294998,24.17 zł,10/10/2023,false,
+Jacinta,Jared,Bygreaves,Jacinta Jared Bygreaves,088172,33335422435,22.00 zł,15/11/2023,true,2/12/2023
+Correna,Belle,Ambrois,Correna Belle Ambrois,861382,81942266700,31.30 zł,13/11/2023,false,
+Myranda,,Iglesia,Myranda  Iglesia,101808,81307263563,13.06 zł,11/11/2023,false,
+David,,Macia,David  Macia,875633,57973505874,22.00 zł,24/10/2023,true,5/11/2023
+Egor,,Sumpner,Egor  Sumpner,041599,78987006018,0.00 zł,,false,
+Vittorio,Randi,Lillywhite,Vittorio Randi Lillywhite,663685,38776185764,22.00 zł,2/10/2023,true,23/10/2023
+Bethena,,Jerok,Bethena  Jerok,838256,09259499232,0.00 zł,,false,
+Suzi,Cristin,Asbrey,Suzi Cristin Asbrey,951927,52971446139,22.00 zł,7/11/2023,true,8/11/2023
+Carol-jean,Marlee,Jedrzejczyk,Carol-jean Marlee Jedrzejczyk,615479,32382087170,15.76 zł,18/10/2023,false,
+Manny,,Ede,Manny  Ede,799360,68060557874,0.00 zł,,false,
+Fergus,Benjie,Roskilly,Fergus Benjie Roskilly,159237,61004561547,21.58 zł,4/10/2023,false,
+Allyn,Charleen,Brion,Allyn Charleen Brion,858962,61331014952,0.00 zł,,false,
+Ange,,Fernyhough,Ange  Fernyhough,671173,85171451308,22.00 zł,16/10/2023,true,6/11/2023
+Corie,,Poole,Corie  Poole,128383,15884595667,0.00 zł,,false,
+Constantia,Annis,Raecroft,Constantia Annis Raecroft,401799,63663256459,0.00 zł,,false,
+Penelopa,,Skelhorn,Penelopa  Skelhorn,812977,92819700549,0.00 zł,,false,
+Archibald,Ranice,Swainsbury,Archibald Ranice Swainsbury,033614,91381805360,21.99 zł,3/11/2023,false,
+Symon,Antonin,Peeters,Symon Antonin Peeters,873175,46114949119,27.79 zł,5/10/2023,false,
+Artemis,,Plaice,Artemis  Plaice,484056,13556172075,22.10 zł,3/11/2023,false,
+Melissa,,Cruz,Melissa  Cruz,266752,75988851718,28.54 zł,14/11/2023,false,
+Terri,Star,Swafford,Terri Star Swafford,385390,83738604237,24.10 zł,3/11/2023,false,
+Ruprecht,Tamarah,Seaward,Ruprecht Tamarah Seaward,216746,42651238872,0.00 zł,,false,
+Cynthea,,Boddy,Cynthea  Boddy,530184,33872207993,0.00 zł,,false,
+Eachelle,,Till,Eachelle  Till,072953,21689028690,25.90 zł,3/10/2023,false,
+Ginger,,Burg,Ginger  Burg,924407,37066924803,22.00 zł,10/11/2023,true,24/11/2023
+Paige,Moyra,Sainsberry,Paige Moyra Sainsberry,675796,04205712818,0.00 zł,,false,
+Abbi,,Klampk,Abbi  Klampk,100995,39414180244,29.67 zł,12/11/2023,false,
+Arlie,,Cuming,Arlie  Cuming,127178,45343270044,22.00 zł,17/11/2023,true,8/12/2023
+Gabbi,,Wardhaw,Gabbi  Wardhaw,309752,98992288435,0.00 zł,,false,
+Karl,Rivalee,Yesinov,Karl Rivalee Yesinov,005087,52510203543,22.00 zł,18/10/2023,true,25/10/2023
+Manya,,Rubinovici,Manya  Rubinovici,971218,01811223378,0.00 zł,,false,
+Lonni,,Dumbarton,Lonni  Dumbarton,764803,83952616883,20.39 zł,14/10/2023,false,
+Leah,Dewain,Eckhard,Leah Dewain Eckhard,441578,67748118222,28.76 zł,31/10/2023,false,
+Leland,,Reinard,Leland  Reinard,095641,57220342137,0.00 zł,,false,
+Torrey,Nicole,Neno,Torrey Nicole Neno,125699,22983899470,13.20 zł,23/10/2023,false,
+Chadd,,Muspratt,Chadd  Muspratt,158815,56567760141,22.00 zł,7/11/2023,true,29/11/2023
+Fabio,,Daniello,Fabio  Daniello,873540,08944401136,29.61 zł,10/11/2023,false,
+Burk,,World,Burk  World,924815,96350941476,13.58 zł,11/11/2023,false,
+Anatole,Mirna,Swatradge,Anatole Mirna Swatradge,494553,05414688831,0.00 zł,,false,
+Vaughan,Darby,Gosling,Vaughan Darby Gosling,975931,90861593488,22.00 zł,6/11/2023,true,30/11/2023
+Isis,,Stallen,Isis  Stallen,045020,83723288443,25.83 zł,17/10/2023,false,
+Emelita,Ethelyn,Sime,Emelita Ethelyn Sime,710728,44392556541,27.70 zł,26/10/2023,false,
+Camile,Katheryn,Ibanez,Camile Katheryn Ibanez,361916,85284401872,0.00 zł,,false,
+Arda,,Di Bartolomeo,Arda  Di Bartolomeo,822969,85489816345,22.00 zł,7/10/2023,true,1/11/2023
+Ritchie,Min,Labden,Ritchie Min Labden,274778,08548432798,0.00 zł,,false,
+Nesta,Nerty,Threadgold,Nesta Nerty Threadgold,035304,42003250257,22.00 zł,15/11/2023,true,26/11/2023
+Tommy,,McRobert,Tommy  McRobert,927135,52524512470,25.14 zł,2/10/2023,false,
+Tove,Loria,Thackston,Tove Loria Thackston,316933,60512138616,0.00 zł,,false,
+Ivett,Rutherford,Hamlyn,Ivett Rutherford Hamlyn,082829,76118186332,22.00 zł,16/10/2023,true,15/11/2023
+Nady,Myrtie,Kauble,Nady Myrtie Kauble,959555,02508969735,26.55 zł,28/10/2023,false,
+Donavon,,Kollach,Donavon  Kollach,209373,42390680651,22.00 zł,4/10/2023,true,9/10/2023
+Ursola,,MacCawley,Ursola  MacCawley,274289,32173146582,22.00 zł,17/10/2023,true,30/10/2023
+Goldarina,,Hullock,Goldarina  Hullock,919063,49598105293,28.01 zł,8/10/2023,false,
+Charley,Stevie,Breckin,Charley Stevie Breckin,539613,23745325756,0.00 zł,,false,
+Saunder,Katrina,Dacres,Saunder Katrina Dacres,692241,63701862025,22.00 zł,26/10/2023,true,28/10/2023
+Karl,Rhiamon,Skain,Karl Rhiamon Skain,046326,87479950978,25.69 zł,12/11/2023,false,
+Sholom,Vanni,Le Estut,Sholom Vanni Le Estut,350798,71270304030,22.00 zł,31/10/2023,true,24/11/2023
+Wendell,,Daborn,Wendell  Daborn,142363,44624860717,0.00 zł,,false,
+Gustave,Towny,Ridgedell,Gustave Towny Ridgedell,813003,97268159623,22.00 zł,19/10/2023,true,27/10/2023
+Bernardo,,Munkton,Bernardo  Munkton,066872,53232599374,0.00 zł,,false,
+Yasmeen,Guenevere,Shaughnessy,Yasmeen Guenevere Shaughnessy,846037,12695281763,19.11 zł,5/11/2023,false,
+Sherye,,Fforde,Sherye  Fforde,226609,54554501534,0.00 zł,,false,
+Sven,Livia,Redhole,Sven Livia Redhole,489816,35544644455,24.14 zł,7/10/2023,false,
+Karalee,,Coning,Karalee  Coning,891204,67267301358,16.64 zł,15/10/2023,false,
+Patten,Andros,Jerram,Patten Andros Jerram,109327,03708864352,22.69 zł,30/10/2023,false,
+Mira,,Jaquet,Mira  Jaquet,837779,10493652892,22.00 zł,3/10/2023,true,9/10/2023
+Jefferson,,Hilbourne,Jefferson  Hilbourne,614363,81971421618,22.00 zł,28/10/2023,true,17/11/2023
+Niki,Bourke,Dreelan,Niki Bourke Dreelan,896593,59148990626,22.00 zł,9/11/2023,true,13/11/2023
+Ingelbert,Kenn,Curbishley,Ingelbert Kenn Curbishley,243160,81856361197,0.00 zł,,false,
+Elbertina,Sheelah,Ramsdell,Elbertina Sheelah Ramsdell,232071,18583339495,22.00 zł,14/10/2023,true,17/10/2023
+Flinn,Kimberlee,Guild,Flinn Kimberlee Guild,657406,14056887019,18.25 zł,9/11/2023,false,
+Josh,Gabey,Fishpond,Josh Gabey Fishpond,420608,94104747247,22.00 zł,10/10/2023,true,23/10/2023
+Hillier,Loutitia,Story,Hillier Loutitia Story,691227,23116375688,22.00 zł,13/11/2023,true,21/11/2023
+Sofie,,Carle,Sofie  Carle,852386,65806319729,22.00 zł,8/11/2023,true,4/12/2023
+Desi,,Haldin,Desi  Haldin,614337,54892173858,19.46 zł,15/10/2023,false,
+Raleigh,,O'Sheeryne,Raleigh  O'Sheeryne,253669,53469253557,22.00 zł,1/11/2023,true,25/11/2023
+Howie,Jeniffer,Tremellan,Howie Jeniffer Tremellan,850704,52471889893,22.00 zł,19/10/2023,true,29/10/2023
+Meta,Onofredo,Stansfield,Meta Onofredo Stansfield,316108,42524371139,29.14 zł,20/10/2023,false,
+Maddi,Chere,Bodiam,Maddi Chere Bodiam,023906,11704552126,0.00 zł,,false,
+Ric,Pansie,Castelijn,Ric Pansie Castelijn,921406,22262761792,0.00 zł,,false,
+Brandon,Albert,Stanbridge,Brandon Albert Stanbridge,140173,18293414568,0.00 zł,,false,
+Olivero,,Dicky,Olivero  Dicky,096067,07435169083,22.00 zł,14/10/2023,true,27/10/2023
+Giles,,Durnill,Giles  Durnill,163030,37925483653,0.00 zł,,false,
+Kurtis,Dennie,Bankhurst,Kurtis Dennie Bankhurst,319404,36529457537,22.00 zł,24/10/2023,true,23/11/2023
+Richard,,Wilce,Richard  Wilce,220998,26168346797,0.00 zł,,false,
+Emelina,,Capaldi,Emelina  Capaldi,780054,67316147207,24.59 zł,14/10/2023,false,
+Renaldo,Harriett,Cason,Renaldo Harriett Cason,831880,91835310160,30.50 zł,24/10/2023,false,
+Iain,,Cockburn,Iain  Cockburn,179409,70620386493,23.28 zł,21/10/2023,false,
+Hailee,,Doring,Hailee  Doring,552230,57447827152,17.29 zł,17/11/2023,false,
+Archibaldo,,Clift,Archibaldo  Clift,525987,66066162389,0.00 zł,,false,
+Quill,,Haswell,Quill  Haswell,638496,23031870922,22.00 zł,25/10/2023,true,31/10/2023
+Bernadina,Xymenes,Hancke,Bernadina Xymenes Hancke,325578,56458352505,25.01 zł,22/10/2023,false,
+Abby,,Baum,Abby  Baum,896621,73915939998,24.75 zł,27/10/2023,false,
+Thebault,,Shafto,Thebault  Shafto,184854,87591733731,0.00 zł,,false,
+Cathryn,Rozalie,Islep,Cathryn Rozalie Islep,851650,87314966490,0.00 zł,,false,
+Marie-ann,Mathilde,Landers,Marie-ann Mathilde Landers,672630,10075194166,13.89 zł,8/11/2023,false,
+Gisella,,Tarquinio,Gisella  Tarquinio,517489,70024107431,0.00 zł,,false,
+Sonnnie,,Mallison,Sonnnie  Mallison,955699,38039626581,10.92 zł,8/11/2023,false,
+Georgette,,Stoves,Georgette  Stoves,461444,96408280908,22.00 zł,8/11/2023,true,7/12/2023
+Tammie,Susanna,Stockell,Tammie Susanna Stockell,776663,78854656635,22.00 zł,18/10/2023,true,20/10/2023
+Marmaduke,Remington,Ace,Marmaduke Remington Ace,398721,38969166789,22.00 zł,15/11/2023,true,23/11/2023
+Anatollo,,Say,Anatollo  Say,490096,38379031634,25.58 zł,14/10/2023,false,
+Glenine,,Windous,Glenine  Windous,182416,67233615788,22.00 zł,12/10/2023,true,31/10/2023
+Wilone,,Bedberry,Wilone  Bedberry,095312,58695568265,22.00 zł,27/10/2023,true,29/10/2023
+Thaine,,Hulson,Thaine  Hulson,566174,32386559399,22.00 zł,17/11/2023,true,1/12/2023
+Garvy,,Awdry,Garvy  Awdry,921600,49243175795,20.30 zł,12/11/2023,false,
+Steffie,,Longland,Steffie  Longland,194443,51656221769,22.00 zł,8/11/2023,true,30/11/2023
+Simonne,,Pratte,Simonne  Pratte,654318,26148210128,0.00 zł,,false,
+Aida,Janka,Mapplebeck,Aida Janka Mapplebeck,252237,21474316281,26.35 zł,8/11/2023,false,
+Tracy,Brit,Baudinet,Tracy Brit Baudinet,249372,30467882792,23.29 zł,26/10/2023,false,
+Clementina,,Rosengren,Clementina  Rosengren,034791,59017199196,22.00 zł,16/11/2023,true,18/11/2023
+Mannie,Dennison,Hughill,Mannie Dennison Hughill,704224,97308883943,0.00 zł,,false,
+Giffy,Far,Dulen,Giffy Far Dulen,616153,53240862024,23.27 zł,18/10/2023,false,
+Pammy,Prince,Le Borgne,Pammy Prince Le Borgne,100642,77315806333,0.00 zł,,false,
+Noelani,Jareb,Betts,Noelani Jareb Betts,961715,95717990120,22.00 zł,28/10/2023,true,1/11/2023
+Georgeanne,,Mordaunt,Georgeanne  Mordaunt,344070,42061104278,16.96 zł,20/10/2023,false,
+Obadiah,,Valek,Obadiah  Valek,234656,20915690568,0.00 zł,,false,
+Lillian,,Eich,Lillian  Eich,721984,84630484947,20.35 zł,24/10/2023,false,
+Carny,Jasmine,Tabart,Carny Jasmine Tabart,056495,46875630227,22.00 zł,13/10/2023,true,3/11/2023
+Crissie,Merwin,Braidley,Crissie Merwin Braidley,733804,23364317658,0.00 zł,,false,
+Cornie,,Marchington,Cornie  Marchington,708087,04043390512,23.00 zł,1/11/2023,false,
+Lidia,,O'Lenane,Lidia  O'Lenane,689093,66581082108,0.00 zł,,false,
+Courtenay,Abey,O'Heffernan,Courtenay Abey O'Heffernan,534387,46186170992,20.91 zł,12/11/2023,false,
+Raye,Ruprecht,Janacek,Raye Ruprecht Janacek,858046,77235714986,18.91 zł,29/10/2023,false,
+Milli,,Wallwood,Milli  Wallwood,601913,97503794979,0.00 zł,,false,
+Broderic,,Caffin,Broderic  Caffin,818794,05786988251,24.33 zł,26/10/2023,false,
+Gretal,,Chaperlin,Gretal  Chaperlin,892011,91725686775,22.00 zł,6/10/2023,true,28/10/2023
+Lockwood,Yvon,Donisi,Lockwood Yvon Donisi,168813,64864811354,22.00 zł,10/11/2023,true,4/12/2023
+Devland,Wolfie,Rumgay,Devland Wolfie Rumgay,564517,14967599587,0.00 zł,,false,
+Aurel,,Begbie,Aurel  Begbie,530655,80052746456,23.15 zł,11/11/2023,false,
+Laryssa,Cornelia,Clohessy,Laryssa Cornelia Clohessy,565586,98732462421,22.00 zł,4/11/2023,true,17/11/2023
+Ave,Hersh,Semour,Ave Hersh Semour,900744,50945050373,23.99 zł,15/11/2023,false,
+Warren,,Lardnar,Warren  Lardnar,868276,03770667552,22.00 zł,3/11/2023,true,22/11/2023
+Artus,Ami,Fibbings,Artus Ami Fibbings,388457,04200555690,0.00 zł,,false,
+Emmi,,Bonick,Emmi  Bonick,552079,50842535577,22.00 zł,16/11/2023,true,30/11/2023
+Mareah,Randene,Clewarth,Mareah Randene Clewarth,764190,63949744777,27.91 zł,9/11/2023,false,
+Milton,Stafani,Taplin,Milton Stafani Taplin,908078,18408392470,22.00 zł,24/10/2023,true,8/11/2023
+Levon,,O'Riordan,Levon  O'Riordan,101199,36182393094,25.23 zł,17/10/2023,false,
+Kassandra,Bernie,Axworthy,Kassandra Bernie Axworthy,738927,25784401041,14.61 zł,2/11/2023,false,
+Hillery,Edward,Winley,Hillery Edward Winley,937795,96366880427,0.00 zł,,false,
+Graham,,Craxford,Graham  Craxford,375101,73405559759,0.00 zł,,false,
+Lind,Maddy,Boutcher,Lind Maddy Boutcher,076520,53599373251,0.00 zł,,false,
+Dennis,,McKeller,Dennis  McKeller,590908,79658678164,28.08 zł,7/10/2023,false,
+Link,Natividad,Jalland,Link Natividad Jalland,138722,15883690182,0.00 zł,,false,
+Darwin,,Townsend,Darwin  Townsend,689007,73334879177,15.04 zł,3/11/2023,false,
+Dorena,Lisette,Joffe,Dorena Lisette Joffe,969696,31893227761,28.36 zł,3/10/2023,false,
+Lee,,Forson,Lee  Forson,427355,65410133561,0.00 zł,,false,
+Giusto,Mureil,Arendsen,Giusto Mureil Arendsen,824804,19650708283,0.00 zł,,false,
+Arnaldo,,Conahy,Arnaldo  Conahy,139207,59273913630,25.31 zł,21/10/2023,false,
+Marcela,Vittoria,Irvin,Marcela Vittoria Irvin,752051,94027441170,0.00 zł,,false,
+Tania,Wally,Munn,Tania Wally Munn,593608,80739389253,22.00 zł,12/11/2023,true,14/11/2023
+Daisi,Madonna,D'Orsay,Daisi Madonna D'Orsay,457175,75281576201,0.00 zł,,false,
+Karla,Martynne,Hayer,Karla Martynne Hayer,021501,43577665580,21.14 zł,1/10/2023,false,
+Shelby,,Truran,Shelby  Truran,792747,74940879544,0.00 zł,,false,
+Toby,,Gras,Toby  Gras,344026,34173883184,22.99 zł,6/11/2023,false,
+Pippo,,Bownes,Pippo  Bownes,721648,71595905607,21.39 zł,20/10/2023,false,
+Dan,Tory,Kneal,Dan Tory Kneal,010481,85367618229,22.00 zł,1/11/2023,true,5/11/2023
+Inger,,Slym,Inger  Slym,069294,76221562646,18.84 zł,29/10/2023,false,
+Zebulen,Gonzales,Lahiff,Zebulen Gonzales Lahiff,385238,43578514163,28.55 zł,17/10/2023,false,
+Johnathon,,Gianiello,Johnathon  Gianiello,531118,53587439915,22.00 zł,14/10/2023,true,26/10/2023
+Dahlia,,Sharpous,Dahlia  Sharpous,906126,82520616580,22.00 zł,13/10/2023,true,3/11/2023
+Damiano,,McGannon,Damiano  McGannon,257114,03391323241,17.41 zł,11/10/2023,false,
+Sidnee,Allis,Keunemann,Sidnee Allis Keunemann,648241,98507926226,22.00 zł,2/10/2023,true,30/10/2023
+Alli,,Burgen,Alli  Burgen,183032,93022558397,0.00 zł,,false,
+Francisco,Reyna,Lovart,Francisco Reyna Lovart,833870,85572932179,0.00 zł,,false,
+Wiatt,Bianca,Truse,Wiatt Bianca Truse,731713,89771601633,0.00 zł,,false,
+Lyda,Linell,Gonning,Lyda Linell Gonning,032991,84175818286,0.00 zł,,false,
+Dean,,McLenaghan,Dean  McLenaghan,135659,13123333674,25.61 zł,7/11/2023,false,
+Mariya,,Swarbrick,Mariya  Swarbrick,429668,54939600893,16.36 zł,22/10/2023,false,
+Ambros,Deerdre,Brenstuhl,Ambros Deerdre Brenstuhl,241914,35105348999,22.00 zł,11/10/2023,true,23/10/2023
+Huberto,Yurik,Sibbson,Huberto Yurik Sibbson,525280,53674054794,0.00 zł,,false,
+Maximilianus,,Bedwell,Maximilianus  Bedwell,874312,91669609819,29.13 zł,14/10/2023,false,
+Sloan,,Bream,Sloan  Bream,927265,84846498123,18.86 zł,9/11/2023,false,
+Dyanna,,Buckleigh,Dyanna  Buckleigh,337790,16891802251,35.62 zł,5/10/2023,false,
+Patrizio,Evangelin,Doud,Patrizio Evangelin Doud,946712,30555902543,0.00 zł,,false,
+Emilee,Delilah,Millbank,Emilee Delilah Millbank,031250,50083625443,19.36 zł,1/11/2023,false,
+Gardner,Rozalin,Chipperfield,Gardner Rozalin Chipperfield,135067,85504108953,0.00 zł,,false,
+Catlin,King,Sauvage,Catlin King Sauvage,821091,60278900940,22.00 zł,12/11/2023,true,22/11/2023
+Sapphira,Lilias,Ilem,Sapphira Lilias Ilem,377157,20420013284,22.00 zł,1/10/2023,true,15/10/2023
+Rockie,Rufus,Wedderburn,Rockie Rufus Wedderburn,512043,08746537614,22.00 zł,14/11/2023,true,11/12/2023
+Barton,,Aronow,Barton  Aronow,469800,06417367631,26.36 zł,5/11/2023,false,
+Sofie,,Found,Sofie  Found,064619,09293381097,22.00 zł,13/11/2023,true,10/12/2023
+Rodrigo,Roderigo,McLugaish,Rodrigo Roderigo McLugaish,677626,39563503213,29.09 zł,25/10/2023,false,
+Andreas,Vonny,Collumbine,Andreas Vonny Collumbine,939799,15026804148,22.00 zł,23/10/2023,true,28/10/2023
+Ronni,Tynan,Ruseworth,Ronni Tynan Ruseworth,804319,67000642145,28.25 zł,22/10/2023,false,
+Irvine,Tersina,Jeandel,Irvine Tersina Jeandel,581858,42392933842,0.00 zł,,false,
+Hollie,Rickey,Lamminam,Hollie Rickey Lamminam,971970,51131554765,0.00 zł,,false,
+Tamarah,,Penritt,Tamarah  Penritt,177196,27746918671,22.00 zł,13/10/2023,true,6/11/2023
+Elna,,Fydoe,Elna  Fydoe,784508,51323906129,22.00 zł,3/10/2023,true,31/10/2023
+Bing,,Dods,Bing  Dods,908569,61183549032,0.00 zł,,false,
+Leticia,,Alderson,Leticia  Alderson,204200,18995799122,22.24 zł,4/11/2023,false,
+Davidde,Walliw,Gianulli,Davidde Walliw Gianulli,041401,02698577653,26.70 zł,14/10/2023,false,
+Nancy,Dulcine,Toyne,Nancy Dulcine Toyne,878941,96197586653,18.64 zł,20/10/2023,false,
+Boniface,Charlton,Drought,Boniface Charlton Drought,761734,21547554147,0.00 zł,,false,
+Thibaut,,Cronshaw,Thibaut  Cronshaw,504582,77976938692,24.76 zł,4/10/2023,false,
+Quinton,Otis,McCullogh,Quinton Otis McCullogh,148685,96026112752,22.00 zł,7/10/2023,true,29/10/2023
+Alexi,Cece,Willmett,Alexi Cece Willmett,918490,32631067860,0.00 zł,,false,
+Lorene,,Overthrow,Lorene  Overthrow,291591,05304708417,25.89 zł,3/10/2023,false,
+Ernestus,Hal,Boldry,Ernestus Hal Boldry,883401,08952424720,0.00 zł,,false,
+Morgen,,Icke,Morgen  Icke,794037,85281427315,0.00 zł,,false,
+Vivyanne,,Rapelli,Vivyanne  Rapelli,184791,90479744498,22.52 zł,5/10/2023,false,
+Shina,Addy,Brandt,Shina Addy Brandt,569101,09204291607,21.31 zł,3/10/2023,false,
+Reine,Marika,Daoust,Reine Marika Daoust,654498,09145274477,20.29 zł,28/10/2023,false,
+Whitney,Tarrah,Reams,Whitney Tarrah Reams,867858,24712433890,26.00 zł,9/11/2023,false,
+Marie-ann,,Belamy,Marie-ann  Belamy,964436,06072526436,23.67 zł,17/10/2023,false,
+Burgess,,Trout,Burgess  Trout,293022,81910982467,28.35 zł,25/10/2023,false,
+Dalenna,,Midford,Dalenna  Midford,061009,18419713561,0.00 zł,,false,
+Mason,Sheryl,Dominka,Mason Sheryl Dominka,833101,01155751168,19.62 zł,7/10/2023,false,
+Almire,,Nannoni,Almire  Nannoni,600891,83198366840,33.24 zł,15/10/2023,false,
+Filberto,Granthem,Matis,Filberto Granthem Matis,187608,57569896947,0.00 zł,,false,
+Gay,Giulio,Delahunty,Gay Giulio Delahunty,228698,36754698275,0.00 zł,,false,
+Shandy,Pearce,Raynes,Shandy Pearce Raynes,575791,36722155102,20.02 zł,21/10/2023,false,
+Angelica,Biddy,Blinder,Angelica Biddy Blinder,872947,47728677142,18.62 zł,5/10/2023,false,
+Nancie,,Amthor,Nancie  Amthor,813330,82937977012,22.00 zł,24/10/2023,true,31/10/2023
+Raimundo,,Glackin,Raimundo  Glackin,134247,39182756414,0.00 zł,,false,
+Blane,,Beach,Blane  Beach,935563,45802027884,22.00 zł,20/10/2023,true,29/10/2023
+Alanna,Correy,Frankema,Alanna Correy Frankema,936737,22957058942,13.28 zł,17/10/2023,false,
+Cicily,Alina,Bottell,Cicily Alina Bottell,721238,11535789934,0.00 zł,,false,
+Carlita,Westbrooke,Aspey,Carlita Westbrooke Aspey,657124,96649348521,0.00 zł,,false,
+Didi,,Pellett,Didi  Pellett,809910,62048032803,22.12 zł,4/11/2023,false,
+Jeanelle,Lishe,Claye,Jeanelle Lishe Claye,831916,21650734003,0.00 zł,,false,
+Jacquelin,,Gennings,Jacquelin  Gennings,962355,22909419675,0.00 zł,,false,
+Clari,Kylie,Coppin,Clari Kylie Coppin,029452,70985302010,10.20 zł,24/10/2023,false,
+Karee,Tynan,Huxley,Karee Tynan Huxley,436522,00233585891,27.37 zł,30/10/2023,false,
+Johan,Linnie,Guthrum,Johan Linnie Guthrum,955131,81633744299,22.15 zł,28/10/2023,false,
+Jennette,,Kerner,Jennette  Kerner,743960,44691733808,16.73 zł,16/11/2023,false,
+Wanids,,Slides,Wanids  Slides,100100,57912667367,17.20 zł,17/11/2023,false,
+Joey,Joyce,Loade,Joey Joyce Loade,785053,44328046712,21.44 zł,15/10/2023,false,
+Valry,,Lapping,Valry  Lapping,724504,61918064712,17.18 zł,2/10/2023,false,
+Florance,Loella,Francillo,Florance Loella Francillo,580875,79370980058,20.88 zł,10/10/2023,false,
+Mattie,Sawyer,Wrathall,Mattie Sawyer Wrathall,206092,12797055563,22.00 zł,2/10/2023,true,1/11/2023
+Anjela,Dannye,Gamett,Anjela Dannye Gamett,570706,91408615916,34.22 zł,7/10/2023,false,
+Appolonia,Rebecca,Spehr,Appolonia Rebecca Spehr,434742,85249176426,0.00 zł,,false,
+Elvis,Lia,Andretti,Elvis Lia Andretti,228425,25177101497,22.00 zł,20/10/2023,true,31/10/2023
+Gabbey,,Shimoni,Gabbey  Shimoni,872784,17675154565,22.78 zł,9/11/2023,false,
+Gabriello,Gerladina,Ellett,Gabriello Gerladina Ellett,140426,62071729620,22.00 zł,14/10/2023,true,8/11/2023
+Guthry,Kailey,Stoffels,Guthry Kailey Stoffels,163482,17406043688,0.00 zł,,false,
+Isidor,,Peek,Isidor  Peek,853490,74999389710,0.00 zł,,false,
+Clyve,Neddie,McAllaster,Clyve Neddie McAllaster,352333,67692935807,22.00 zł,23/10/2023,true,20/11/2023
+Brennan,,Laurencot,Brennan  Laurencot,896604,44936147480,22.00 zł,4/10/2023,true,26/10/2023
+Alisander,,Misselbrook,Alisander  Misselbrook,231409,40790927451,22.00 zł,13/10/2023,true,21/10/2023
+Dieter,Dolli,Fontenot,Dieter Dolli Fontenot,317035,20433102821,0.00 zł,,false,
+Urban,,Barfoot,Urban  Barfoot,954785,05710199197,22.00 zł,1/11/2023,true,9/11/2023
+Marylynne,,Olenin,Marylynne  Olenin,444868,83450006544,22.00 zł,7/10/2023,true,27/10/2023
+Andras,Gabi,Wenban,Andras Gabi Wenban,087929,15135256221,10.23 zł,14/11/2023,false,
+Ira,,Casewell,Ira  Casewell,145077,82039572161,18.44 zł,7/11/2023,false,
+Lonny,Miles,Bocking,Lonny Miles Bocking,720701,10242521961,22.82 zł,5/11/2023,false,
+Koralle,Corie,Luscombe,Koralle Corie Luscombe,591865,41401851749,22.00 zł,21/10/2023,true,20/11/2023
+Maegan,,Hendriksen,Maegan  Hendriksen,329543,34620514375,20.30 zł,6/11/2023,false,
+Marguerite,Jerrold,Karys,Marguerite Jerrold Karys,768778,30301249081,25.93 zł,22/10/2023,false,
+Con,Dani,Hertwell,Con Dani Hertwell,952483,50758056717,21.48 zł,13/11/2023,false,
+Lodovico,Smitty,Tapscott,Lodovico Smitty Tapscott,666393,85770735971,0.00 zł,,false,
+Karoly,Ransom,GiacobbiniJacob,Karoly Ransom GiacobbiniJacob,733349,35506496391,22.00 zł,11/11/2023,true,5/12/2023
+Gilli,,Mapp,Gilli  Mapp,561828,59984467797,0.00 zł,,false,
+Tyrone,Lyda,Layman,Tyrone Lyda Layman,032389,12945216129,22.00 zł,1/10/2023,true,16/10/2023
+Mureil,,Rowena,Mureil  Rowena,195637,68268514614,26.87 zł,12/10/2023,false,
+Lanny,Micki,Laux,Lanny Micki Laux,517300,04900885378,22.00 zł,17/11/2023,true,26/11/2023
+Berty,Hasheem,Bail,Berty Hasheem Bail,417030,30500621655,30.11 zł,16/11/2023,false,
+Allsun,Rose,Sawter,Allsun Rose Sawter,511334,94132689773,19.32 zł,1/11/2023,false,
+Vicky,Ellswerth,O'Harney,Vicky Ellswerth O'Harney,431277,89978808094,22.00 zł,17/10/2023,true,27/10/2023
+Lucina,,Fyldes,Lucina  Fyldes,594549,51494583455,22.00 zł,3/10/2023,true,6/10/2023
+Ned,,Sreenan,Ned  Sreenan,041675,69993492444,22.00 zł,7/11/2023,true,21/11/2023
+Chaunce,,Lorne,Chaunce  Lorne,532773,49594372731,0.00 zł,,false,
+Lian,Ravid,Thursby,Lian Ravid Thursby,579962,82411279675,0.00 zł,,false,
+Karia,Allianora,Lindsley,Karia Allianora Lindsley,225598,96779364651,22.00 zł,22/10/2023,true,25/10/2023
+Rhianon,Cissiee,Whipple,Rhianon Cissiee Whipple,935014,19736050074,14.42 zł,24/10/2023,false,
+Kelwin,Homere,Gipson,Kelwin Homere Gipson,357425,17167647153,0.00 zł,,false,
+Otes,Zebedee,Marzelo,Otes Zebedee Marzelo,649099,49965982933,12.47 zł,21/10/2023,false,
+Jeno,Erroll,Tierney,Jeno Erroll Tierney,244280,93002354871,22.00 zł,11/10/2023,true,3/11/2023
+Maureen,,Tuckerman,Maureen  Tuckerman,618753,02529448948,24.80 zł,20/10/2023,false,
+Juana,Valencia,Hutchence,Juana Valencia Hutchence,823360,20710765336,22.00 zł,2/10/2023,true,5/10/2023
+Waverly,Ekaterina,Fomichkin,Waverly Ekaterina Fomichkin,293457,23551132369,22.00 zł,26/10/2023,true,15/11/2023
+Jobye,Maurizio,Cordelet,Jobye Maurizio Cordelet,686991,30134248470,0.00 zł,,false,
+Godfrey,Carma,Stevens,Godfrey Carma Stevens,076247,75769725907,22.00 zł,3/10/2023,true,16/10/2023
+Augustina,Koenraad,MacGille,Augustina Koenraad MacGille,497426,06278385804,22.00 zł,24/10/2023,true,27/10/2023
+Shay,Jacqueline,Othen,Shay Jacqueline Othen,255917,89536631638,27.79 zł,10/10/2023,false,
+Hendrika,Engelbert,Vyel,Hendrika Engelbert Vyel,181854,79903909568,0.00 zł,,false,
+Reinaldos,Ardys,Dumbell,Reinaldos Ardys Dumbell,878576,84273633960,0.00 zł,,false,
+Vasily,Serena,Betancourt,Vasily Serena Betancourt,320738,77202369044,0.00 zł,,false,
+Timmie,Star,Asel,Timmie Star Asel,396171,07439986813,22.00 zł,10/10/2023,true,12/10/2023
+Neddy,Ossie,Couch,Neddy Ossie Couch,787391,01597538951,0.00 zł,,false,
+Stephani,,Kezor,Stephani  Kezor,052242,57071310739,0.00 zł,,false,
+Rodi,Evvie,Wadworth,Rodi Evvie Wadworth,062095,74671828636,27.73 zł,26/10/2023,false,
+Coral,Ania,Serjeant,Coral Ania Serjeant,022014,98866832965,22.00 zł,11/11/2023,true,15/11/2023
+Borg,,Stanyard,Borg  Stanyard,104610,37587303174,26.53 zł,6/10/2023,false,
+Barbi,,Amys,Barbi  Amys,108529,58979155663,22.00 zł,6/11/2023,true,13/11/2023
+Myrlene,Alaric,Ewbanks,Myrlene Alaric Ewbanks,422147,72702131892,22.00 zł,8/10/2023,true,2/11/2023
+Nils,Laurence,Barczewski,Nils Laurence Barczewski,118191,65152331015,24.00 zł,2/10/2023,false,
+Lyssa,Kristoffer,Swabey,Lyssa Kristoffer Swabey,365117,47030479210,21.68 zł,23/10/2023,false,
+Armand,Raphaela,Fieldgate,Armand Raphaela Fieldgate,002956,19043472165,22.00 zł,2/11/2023,true,15/11/2023
+Charlotta,Anet,Walkington,Charlotta Anet Walkington,063160,89438992312,22.00 zł,4/11/2023,true,16/11/2023
+Devora,,Jeskin,Devora  Jeskin,034260,44549958928,22.00 zł,29/10/2023,true,6/11/2023
+Gretel,Laurent,Dade,Gretel Laurent Dade,305171,90677607847,0.00 zł,,false,
+Maureene,,Merton,Maureene  Merton,747673,87282829128,0.00 zł,,false,
+Philippa,Lizzy,Stoffers,Philippa Lizzy Stoffers,883424,12851510920,23.82 zł,5/10/2023,false,
+Gladys,Anderson,Cowterd,Gladys Anderson Cowterd,761096,33945559386,22.00 zł,17/11/2023,true,21/11/2023
+Maurise,,Imrie,Maurise  Imrie,494681,08251528716,21.98 zł,25/10/2023,false,
+Rica,Willetta,Grzeskowski,Rica Willetta Grzeskowski,099903,26201087799,18.39 zł,8/10/2023,false,
+Isadora,Antonia,Redmire,Isadora Antonia Redmire,010288,80856738730,0.00 zł,,false,
+Teresita,,Krinks,Teresita  Krinks,984723,99990978925,0.00 zł,,false,
+Donn,Jakob,Brisset,Donn Jakob Brisset,914822,40095352618,22.00 zł,12/10/2023,true,23/10/2023
+Lia,,Moorhouse,Lia  Moorhouse,330898,52322113735,23.21 zł,13/10/2023,false,
+Appolonia,,Biddles,Appolonia  Biddles,962515,54076702952,22.00 zł,26/10/2023,true,4/11/2023
+Selby,Marci,Hugenin,Selby Marci Hugenin,112955,61575036496,22.00 zł,9/10/2023,true,8/11/2023
+Shurlocke,Neill,Heams,Shurlocke Neill Heams,917168,68580599300,0.00 zł,,false,
+Jan,Craggie,Aven,Jan Craggie Aven,732725,83650345122,22.14 zł,2/11/2023,false,
+Kassie,Durand,Carde,Kassie Durand Carde,136446,28887629373,0.00 zł,,false,
+Minta,Reggie,Pavett,Minta Reggie Pavett,446887,51640960738,25.19 zł,10/10/2023,false,
